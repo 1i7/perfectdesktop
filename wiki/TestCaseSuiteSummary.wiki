@@ -12,7 +12,7 @@ Add your content here.  Format your content with:
 
 <table>
 <tr>
-<td>== 1. Видео ==</td>
+<td>== 1. Видео ==</td><td>Статус</td>
 </tr><tr>
 <td>  * Разрешение экрана и частота монитора</td>
 </tr><tr>
