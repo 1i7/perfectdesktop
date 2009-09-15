@@ -1,22 +1,18 @@
 #Содержание
 
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
-
-
-
 = Уровень 0: базовые возможности =
 = Железо =
 
 <table>
+
 <tr>
-<td>== 1. Видео ==</td><td>Статус</td>
+<td>Тест</td><td>Статус</td>
 </tr><tr>
-<td>  * Разрешение экрана и частота монитора</td>
+<td>== 1. Видео ==</td><td></td>
 </tr><tr>
-<td>== 2. Сеть и интернет ==</td>
+<td>  * Разрешение экрана и частота монитора</td><td>Статус</td>
+</tr><tr>
+<td>== 2. Сеть и интернет ==</td><td>Статус</td>
 </tr><tr>
 <td>  * Простой доступ ко всем настройкам сети с рабочего стола (апплет на панели, на рабочем столе или в трее)</td>
 </tr><tr>
