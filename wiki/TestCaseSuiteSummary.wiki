@@ -10,7 +10,7 @@
 </tr><tr>
 <td colspan="3"><h2>1. Видео</h2></td><td></td>
 </tr><tr>
-<td colspan="2" width="10px"/><td>Разрешение экрана и частота монитора</td><td></td>
+<td colspan="2" width="20px"/><td>Разрешение экрана и частота монитора</td><td></td>
 </tr><tr>
 <td colspan="3"><h2>2. Сеть и интернет</h2></td><td></td>
 </tr><tr>
