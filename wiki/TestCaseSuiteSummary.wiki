@@ -1,7 +1,5 @@
 #summary Содержание
 
-[http://ya.ru http://commons.wikimedia.org/skins-1.5/monobook/external.png]
-
 баллы:
  * *2* - тест пройден в полном объеме
  * *1* - скорее пройден, чем не пройден: _тест или пройден с некоторыми незначительными недочетами, или для работы потребовалось совершить незначительные дополнительные настройки, или установить дополнительное программное обеспечение_
@@ -73,7 +71,7 @@
 </wiki:comment>
 
 <tr>
-<td colspan="3"><h2>Звук</h2></td><td></td><td></td><td></td>
+<td colspan="3"><h2>Звук</h2></td><td>[tc_Level0_Sound_TestSound http://commons.wikimedia.org/skins-1.5/monobook/external.png]</td><td></td><td></td>
 </tr><tr>
 <td colspan="2"/><td>Воспроизведение тестового звука</td><td></td><td></td><td></td>
 </tr>
