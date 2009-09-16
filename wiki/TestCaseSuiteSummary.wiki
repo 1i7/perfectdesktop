@@ -25,7 +25,7 @@
 <table border="1px">
 
 <tr>
-<td colspan="3">Тест</td><td>Статус</td>
+<td colspan="3">Теста</td><td>Подробно</td><td>Баллы</td><td>Статус</td>
 </tr>
 
 <wiki:comment>
