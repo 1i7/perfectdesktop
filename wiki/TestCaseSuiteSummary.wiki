@@ -1,6 +1,8 @@
 #summary Содержание
 
 [tc_Level0_Sound_TestSound]
+[tc_Level0_Sound_TestSound hello]
+[tc_Level0_Sound_TestSound http://commons.wikimedia.org/skins-1.5/monobook/external.png]
 
 баллы:
  * *2* - тест пройден в полном объеме
