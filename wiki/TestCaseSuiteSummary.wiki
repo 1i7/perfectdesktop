@@ -1,6 +1,6 @@
 #summary Содержание
 
-<a class="external autonumber" href="http://ya.ru">hello</a>
+[http://commons.wikimedia.org/wiki/File:External.png http://ya.ru]
 
 баллы:
  * *2* - тест пройден в полном объеме
