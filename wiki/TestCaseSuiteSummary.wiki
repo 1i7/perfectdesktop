@@ -1,6 +1,6 @@
 #summary Содержание
 
-[http://ya.ru http://commons.wikimedia.org/wiki/File:External.png]
+[http://ya.ru http://commons.wikimedia.org/skins-1.5/monobook/external.png]
 
 баллы:
  * *2* - тест пройден в полном объеме
