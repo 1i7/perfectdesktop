@@ -13,7 +13,7 @@
 <table border="1px">
 
 <tr>
-<td colspan="3">Тест</td><td>Подробнее</td><td>Баллы</td><td>Статус</td>
+<td colspan="3">_*Тест*_</td><td>_*Подробнее*_</td><td>_*Баллы*_</td><td>_*Статус*_</td>
 </tr>
 
 <wiki:comment>
