@@ -25,7 +25,7 @@
 <tr>
 <td colspan="3"><h2>Видео: 2D</h2></td><td></td><td></td><td></td>
 </tr><tr>
-<td colspan="2" width="20px"/><td>Разрешение экрана и частота монитора</td><td></td><td></td><td></td>
+<td colspan="2" width="50px"/><td>Разрешение экрана и частота монитора</td><td></td><td></td><td></td>
 </tr>
 
 <wiki:comment>
