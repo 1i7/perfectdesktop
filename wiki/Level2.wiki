@@ -13,7 +13,7 @@
 <table border="1px">
 
 <tr>
-<td colspan="3">Тест</td><td>Подробнее</td><td>Баллы</td><td>Статус</td>
+<td colspan="3">_*Тест*_</td><td>_*Подробнее*_</td><td>_*Баллы*_</td><td>_*Статус*_</td>
 </tr>
 
 <wiki:comment>
@@ -25,7 +25,7 @@
 <tr>
 <td colspan="3"><h2>Видео: 3-D, композитинг</h2></td><td></td><td></td><td></td>
 </tr><tr>
-<td colspan="2"/><td>поддержка 3-D ускориния</td><td></td><td></td><td></td>
+<td colspan="2" width="50px"/><td>поддержка 3-D ускорения</td><td></td><td></td><td></td>
 </tr><tr>
 <td colspan="2"/><td>работа 3-D эффектов в текущем оконном менеджере (compiz/kwin)</td><td></td><td></td><td></td>
 </tr>
@@ -137,7 +137,7 @@
 <table border="1px">
 
 <tr>
-<td colspan="3">Тест</td><td>Подробнее</td><td>Баллы</td><td>Статус</td>
+<td colspan="3">_*Тест*_</td><td>_*Подробнее*_</td><td>_*Баллы*_</td><td>_*Статус*_</td>
 </tr>
 
 <wiki:comment>
@@ -149,7 +149,7 @@
 <tr>
 <td colspan="3"><h2>Видео</h2></td><td></td><td></td><td></td>
 </tr><tr>
-<td colspan="2"/><td>Возможность выбора звуковой/видео дорожки</td><td></td><td></td><td></td>
+<td colspan="2" width="50px"/><td>Возможность выбора звуковой/видео дорожки</td><td></td><td></td><td></td>
 </tr>
 
 <tr>
@@ -190,7 +190,7 @@
 <table border="1px">
 
 <tr>
-<td colspan="3">Тест</td><td>Подробнее</td><td>Баллы</td><td>Статус</td>
+<td colspan="3">_*Тест*_</td><td>_*Подробнее*_</td><td>_*Баллы*_</td><td>_*Статус*_</td>
 </tr>
 
 <wiki:comment>
@@ -202,7 +202,7 @@
 <tr>
 <td colspan="3"><h2>Флеш - плагин от Adobe</h2></td><td></td><td></td><td></td>
 </tr><tr>
-<td colspan="2"/><td>общая работоспособность - открыть пару сайтов (youtube и какую-нибудь игрушку)</td><td></td><td></td><td></td>
+<td colspan="2" width="50px"/><td>общая работоспособность - открыть пару сайтов (youtube и какую-нибудь игрушку)</td><td></td><td></td><td></td>
 </tr><tr>
 <td colspan="2"/><td>полноэкранный режим (не должен вешать систему)</td><td></td><td></td><td></td>
 </tr><tr>
