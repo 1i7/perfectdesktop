@@ -13,6 +13,6 @@
  * *N/A* - тест не выполнялся
 
 Наборы тестов:
- * [Level0 Уровень 0: необходимый минимум]
- * [Level1 Уровень 1: базовые возможности]
- * [Level2 Уровень 2: расширенные тесты]
+ * [http://code.google.com/p/perfectdesktop/wiki/Level0 Уровень 0: необходимый минимум]
+ * [http://code.google.com/p/perfectdesktop/wiki/Level1 Уровень 1: базовые возможности]
+ * [http://code.google.com/p/perfectdesktop/wiki/Level2 Уровень 2: расширенные тесты]
