@@ -62,7 +62,7 @@
 <td colspan="3"><h2>Звук</h2></td><td></td><td></td><td></td>
 </tr><tr>
 <td colspan="2"/><td>Воспроизведение тестового звука</td><td>
-<a href="tc_HW_Sound_TestSound">
+<a href="http://tc_HW_Sound_TestSound">
 <img src="http://www.gstatic.com/codesite/ph/images/tearoff_icon.gif"/></a>
 </td><td></td><td></td>
 </tr>
