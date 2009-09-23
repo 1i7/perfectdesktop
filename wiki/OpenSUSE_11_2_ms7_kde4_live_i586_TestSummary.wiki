@@ -1,5 +1,8 @@
 #summary Содержание
 
+===дистрибутив: OpenSUSE 11.2 Milestone7 KDE4 live cd i586===
+оборудование: ноутбук HP Pavilion dv6000
+
 баллы:
  * *2* - тест пройден в полном объеме
  * *1* - скорее пройден, чем не пройден: _тест или пройден с некоторыми незначительными недочетами, или для работы потребовалось совершить незначительные дополнительные настройки, или установить дополнительное программное обеспечение_
@@ -13,6 +16,6 @@
  * http://files.opensuse.org/opensuse/en/thumb/0/0c/NotApplicable.png/24px-NotApplicable.png *N/A* - тест не выполнялся
 
 Наборы тестов:
- * [http://code.google.com/p/perfectdesktop/wiki/Level0 Уровень 0: необходимый минимум]
- * [http://code.google.com/p/perfectdesktop/wiki/Level1 Уровень 1: базовые возможности]
- * [http://code.google.com/p/perfectdesktop/wiki/Level2 Уровень 2: расширенные тесты]
+ * [http://code.google.com/p/perfectdesktop/wiki/OpenSUSE_11_2_ms7_kde4_live_i586_Level0 Уровень 0: необходимый минимум]
+ * [http://code.google.com/p/perfectdesktop/wiki/OpenSUSE_11_2_ms7_kde4_live_i586_Level1 Уровень 1: базовые возможности]
+ * [http://code.google.com/p/perfectdesktop/wiki/OpenSUSE_11_2_ms7_kde4_live_i586_Level2 Уровень 2: расширенные тесты]
