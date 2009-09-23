@@ -8,11 +8,11 @@
 
 
 статус:
- * *pass* - тест пройден (баллы 2)
- * *fail* - тест не пройден (баллы от -2 до 1)
- * *N/A* - тест не выполнялся
+ * http://en.opensuse.org/Image:22px-Tick.png *pass* - тест пройден (баллы 2)
+ * http://en.opensuse.org/Image:Cross.png *fail* - тест не пройден (баллы от -2 до 1)
+ * http://en.opensuse.org/Image:NotApplicable.png *N/A* - тест не выполнялся
 
 Наборы тестов:
- * [http://code.google.com/p/perfectdesktop/wiki/OpenSUSE-11.2.ms7-kde4-i586/Level0 Уровень 0: необходимый минимум]
+ * [http://code.google.com/p/perfectdesktop/wiki/Level0 Уровень 0: необходимый минимум]
  * [http://code.google.com/p/perfectdesktop/wiki/Level1 Уровень 1: базовые возможности]
  * [http://code.google.com/p/perfectdesktop/wiki/Level2 Уровень 2: расширенные тесты]
