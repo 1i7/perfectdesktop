@@ -61,7 +61,8 @@
 <tr>
 <td colspan="3"><h2>Звук</h2></td><td></td><td></td><td></td>
 </tr><tr>
-<td colspan="2"/><td>Воспроизведение тестового звука</td><td>[http://code.google.com/p/perfectdesktop/wiki/tc_HW_Sound_TestSound http://www.gstatic.com/codesite/ph/images/tearoff_icon.gif]</td><td></td><td></td>
+<td colspan="2"/><td>Воспроизведение тестового звука</td><td>
+[http://code.google.com/p/perfectdesktop/wiki/OpenSUSE-11.2.ms7-kde4-live-i586/tc_HW_Sound_TestSound http://www.gstatic.com/codesite/ph/images/tearoff_icon.gif]</td><td></td><td></td>
 </tr>
 
 <wiki:comment>
