@@ -2,6 +2,18 @@
 
 = Уровень 0: быстрый старт =
 
+баллы:
+ * *2* - тест пройден в полном объеме
+ * *1* - скорее пройден, чем не пройден: _тест или пройден с некоторыми незначительными недочетами, или для работы потребовалось совершить незначительные дополнительные настройки, или установить дополнительное программное обеспечение_
+ * *-1* - скорее не пройден, чем пройден: _тест проходит не в полном объеме, существующие проблемы или не устранимы, или их устранение требует специальных навыков и серьезной модификации системы (пересборка ядра)_
+ * *-2* - тест не пройден вообще
+
+
+статус:
+ * http://files.opensuse.org/opensuse/en/3/30/22px-Tick.png *pass* - тест пройден (баллы 2)
+ * http://files.opensuse.org/opensuse/en/thumb/4/4e/Cross.png/22px-Cross.png *fail* - тест не пройден (баллы от -2 до 1)
+ * http://files.opensuse.org/opensuse/en/thumb/0/0c/NotApplicable.png/24px-NotApplicable.png *N/A* - тест не выполнялся
+
 <wiki:comment>
 ###############################################
 ************** Оборудование *******************
@@ -61,9 +73,11 @@
 <tr>
 <td colspan="3"><h2>Звук</h2></td><td></td><td></td><td></td>
 </tr><tr>
-<td colspan="2"/><td>Воспроизведение тестового звука</td><td>
-[http://code.google.com/p/perfectdesktop/wiki/tc_HW_Sound_TestSound http://www.gstatic.com/codesite/ph/images/tearoff_icon.gif]
-</td><td></td><td></td>
+<td colspan="2"/><td>Воспроизведение тестового звука</td>
+<td>
+[http://code.google.com/p/perfectdesktop/wiki/OpenSUSE_11_2_ms7_kde4_live_i586_tc_HW_Sound_TestSound http://www.gstatic.com/codesite/ph/images/tearoff_icon.gif]
+</td>
+<td>2</td><td>http://files.opensuse.org/opensuse/en/3/30/22px-Tick.png</td>
 </tr>
 
 <wiki:comment>
@@ -75,11 +89,17 @@
 <tr>
 <td colspan="3"><h2>USB-флешки</h2></td><td></td><td></td><td></td>
 </tr><tr>
-<td colspan="2"/><td>Уведомление о подключении нового устройства с интерфейсом для монтирования</td><td></td><td></td><td></td>
+<td colspan="2"/><td>Уведомление о подключении нового устройства с интерфейсом для монтирования</td>
+<td></td>
+<td>2</td><td>http://files.opensuse.org/opensuse/en/3/30/22px-Tick.png</td>
 </tr><tr>
-<td colspan="2"/><td>Инетерфейс для отключения и безопасного извлечения подключенного устройства</td><td></td><td></td><td></td>
+<td colspan="2"/><td>Инетерфейс для отключения и безопасного извлечения подключенного устройства</td>
+<td></td>
+<td>2</td><td>http://files.opensuse.org/opensuse/en/3/30/22px-Tick.png</td>
 </tr><tr>
-<td colspan="2"/><td>Файловый менеджер не блокирует возможность безопасного отключения</td><td></td><td></td><td></td>
+<td colspan="2"/><td>Файловый менеджер не блокирует возможность безопасного отключения</td>
+<td></td>
+<td>2</td><td>http://files.opensuse.org/opensuse/en/3/30/22px-Tick.png</td>
 </tr><tr>
 <td colspan="2"/><td>В том случае, если при попытке безопасного извлечения устройство занято какой-то программой, выдавать диалог с предупреждением и вариантами действий (retry/force umount — последнее обязательно)</td><td></td><td></td><td></td>
 </tr>
@@ -87,11 +107,19 @@
 <tr>
 <td/><td colspan="2"><h3>FAT</h3></td><td></td><td></td><td></td>
 </tr><tr>
-<td colspan="2"/><td>Автомонтирование или монтирование по требованию работает для простого пользователя</td><td></td><td></td><td></td>
+<td colspan="2"/><td>Автомонтирование или монтирование по требованию работает для простого пользователя</td>
+<td></td>
+<td>2</td><td>http://files.opensuse.org/opensuse/en/3/30/22px-Tick.png</td>
 </tr><tr>
-<td colspan="2"/><td>Чтение и запись включены по умолчанию для простого пользователя</td><td></td><td></td><td></td>
+<td colspan="2"/><td>Чтение и запись включены по умолчанию для простого пользователя</td>
+<td>
+[http://code.google.com/p/perfectdesktop/wiki/OpenSUSE_11_2_ms7_kde4_live_i586_tc_HW_USBDrive_FAT_RW http://www.gstatic.com/codesite/ph/images/tearoff_icon.gif]
+</td>
+<td>1</td><td>http://files.opensuse.org/opensuse/en/thumb/4/4e/Cross.png/22px-Cross.png</td>
 </tr><tr>
-<td colspan="2"/><td>Правильная кодировка русских файлов</td><td></td><td></td><td></td>
+<td colspan="2"/><td>Правильная кодировка русских файлов</td>
+<td></td>
+<td>2</td><td>http://files.opensuse.org/opensuse/en/3/30/22px-Tick.png</td>
 </tr>
 
 <wiki:comment>
