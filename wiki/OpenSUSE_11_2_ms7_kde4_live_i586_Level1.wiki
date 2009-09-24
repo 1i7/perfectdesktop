@@ -72,7 +72,7 @@
 </tr><tr>
 <td colspan="2"/><td>Чтение и запись включены по умолчанию для простого пользователя</td>
 <td></td>
-<td>1</td><td>http://files.opensuse.org/opensuse/en/thumb/4/4e/Cross.png</td>
+<td>1</td><td>http://files.opensuse.org/opensuse/en/thumb/4/4e/Cross.png/22px-Cross.png</td>
 </tr><tr>
 <td colspan="2"/><td>Правильная кодировка русских файлов</td>
 <td></td>
