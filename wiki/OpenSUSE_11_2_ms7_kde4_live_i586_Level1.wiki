@@ -139,7 +139,9 @@
 <td/><td colspan="2"><h3>FAT</h3></td><td></td><td></td><td></td>
 </tr><tr>
 <td colspan="2"/><td>Интерфейс для монтирования по требованию работает для простого пользователя или при попытке подключения требует пароль супер-пользователя</td>
-<td></td>
+<td>
+[http://code.google.com/p/perfectdesktop/wiki/OpenSUSE_11_2_ms7_kde4_live_i586_tc_HW_HDrive_FAT_MountByUser http://www.gstatic.com/codesite/ph/images/tearoff_icon.gif]
+</td>
 <td>1</td><td>http://files.opensuse.org/opensuse/en/thumb/4/4e/Cross.png/22px-Cross.png</td>
 </tr><tr>
 <td colspan="2"/><td>Чтение и запись включены по умолчанию для простого пользователя</td>
@@ -155,7 +157,9 @@
 <td/><td colspan="2"><h3>NTFS</h3></td><td></td><td></td><td></td>
 </tr><tr>
 <td colspan="2"/><td>Интерфейс для монтирования по требованию работает для простого пользователя или при попытке подключения требует пароль супер-пользователя</td>
-<td></td>
+<td>
+[http://code.google.com/p/perfectdesktop/wiki/OpenSUSE_11_2_ms7_kde4_live_i586_tc_HW_HDrive_NTFS_MountByUser http://www.gstatic.com/codesite/ph/images/tearoff_icon.gif]
+</td>
 <td>1</td><td>http://files.opensuse.org/opensuse/en/thumb/4/4e/Cross.png/22px-Cross.png</td>
 </tr><tr>
 <td colspan="2"/><td>Чтение и запись включены по умолчанию для простого пользователя</td>
@@ -212,7 +216,10 @@
 <tr>
 <td colspan="3"><h2>Мультимедиа-клавиши</h2></td><td></td><td></td><td></td>
 </tr><tr>
-<td colspan="2"/><td>Назначены на действия по умолчанию — кнопки громкости должны сразу регулировать звук, играть/пауза/стоп должны запускать проигрывание музыки в плеере и тп.</td><td></td>
+<td colspan="2"/><td>Назначены на действия по умолчанию — кнопки громкости должны сразу регулировать звук, играть/пауза/стоп должны запускать проигрывание музыки в плеере и тп.</td>
+<td>
+[http://code.google.com/p/perfectdesktop/wiki/OpenSUSE_11_2_ms7_kde4_live_i586_tc_HW_MMKeys_CommonActions http://www.gstatic.com/codesite/ph/images/tearoff_icon.gif]
+</td>
 <td>1</td><td>http://files.opensuse.org/opensuse/en/thumb/4/4e/Cross.png/22px-Cross.png</td>
 </tr><tr>
 <td colspan="2"/><td>Возможность назначить произвольные действия — должны приниматься в качестве корректных кодов например в диалоге конфигурации горячих клавиш в amarok</td>
@@ -228,8 +235,14 @@
 
 <tr>
 <td colspan="3"><h2>Клавиатура — глобальные комбинации клавиш</h2></td><td></td><td></td><td></td>
-</tr><tr>
-<td colspan="2"/><td>Кнопка Prt scr должна делать снимок экрана — отправлять в буфер обмена или вызывать соответствующий диалог</td><td></td><td></td><td></td>
+</tr>
+[http://code.google.com/p/perfectdesktop/wiki/OpenSUSE_11_2_ms7_kde4_live_i586_tc_HW_HDrive_FAT_MountByUser http://www.gstatic.com/codesite/ph/images/tearoff_icon.gif]
+<tr>
+<td colspan="2"/><td>Кнопка Prt scr должна делать снимок экрана — отправлять в буфер обмена или вызывать соответствующий диалог</td>
+<td>
+[http://code.google.com/p/perfectdesktop/wiki/OpenSUSE_11_2_ms7_kde4_live_i586_tc_HW_KeyboardGlobalKeys_PrtScr http://www.gstatic.com/codesite/ph/images/tearoff_icon.gif]
+</td>
+<td>1</td><td></td>
 </tr>
 
 <wiki:comment>
@@ -241,13 +254,17 @@
 <tr>
 <td colspan="3"><h2>CD/DVD-R</h2></td><td></td><td></td><td></td>
 </tr><tr>
-<td colspan="2"/><td>Наличие программы для записи дисков</td><td></td><td></td><td></td>
+<td colspan="2"/><td>Запись файлов на диск и последующее чтение их на этом же компьютере с записанного диска</td>
+<td></td>
+<td></td><td></td>
 </tr><tr>
-<td colspan="2"/><td>Запись файлов на диск и последующее чтение их на этом же компьютере с записанного диска</td><td></td><td></td><td></td>
+<td colspan="2"/><td>Запись/чтение файлов с русскими именами</td>
+<td></td>
+<td></td><td></td>
 </tr><tr>
-<td colspan="2"/><td>Запись/чтение файлов с русскими именами</td><td></td><td></td><td></td>
-</tr><tr>
-<td colspan="2"/><td>Запись с галочкой «проверить записанные данные»</td><td></td><td></td><td></td>
+<td colspan="2"/><td>Запись с галочкой «проверить записанные данные»</td>
+<td></td>
+<td></td><td></td>
 </tr>
 </table>
 
