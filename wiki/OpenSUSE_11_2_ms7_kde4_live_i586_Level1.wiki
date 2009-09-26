@@ -118,33 +118,53 @@
 <tr>
 <td colspan="3"><h2>Разделы жестких дисков</h2></td><td></td><td></td><td></td>
 </tr><tr>
-<td colspan="2"/><td>Просмотр списка разделов - как подключенных так и неподключенных - в очевидном месте (файл-менеджер или ссылка на рабочем столе или панели)</td><td></td><td></td><td></td>
+<td colspan="2"/><td>Просмотр списка разделов - как подключенных так и неподключенных - в очевидном месте (файл-менеджер или ссылка на рабочем столе или панели)</td>
+<td></td>
+<td>2</td><td>http://files.opensuse.org/opensuse/en/3/30/22px-Tick.png</td>
 </tr><tr>
-<td colspan="2"/><td>Автомонтирование или интерфейс для монтирования по требованию — без необходимости прописывать устройство руками в fstab</td><td></td><td></td><td></td>
+<td colspan="2"/><td>Автомонтирование или интерфейс для монтирования по требованию — без необходимости прописывать устройство руками в fstab</td>
+<td></td>
+<td>2</td><td>http://files.opensuse.org/opensuse/en/3/30/22px-Tick.png</td>
 </tr><tr>
-<td colspan="2"/><td>Файловый менеджер не блокирует возможность безопасного отключения</td><td></td><td></td><td></td>
+<td colspan="2"/><td>Файловый менеджер не блокирует возможность безопасного отключения</td>
+<td></td>
+<td></td><td>http://files.opensuse.org/opensuse/en/thumb/0/0c/NotApplicable.png/24px-NotApplicable.png</td>
 </tr><tr>
-<td colspan="2"/><td>В том случае, если при попытке безопасного извлечения устройство занято какой-то программой, выдавать диалог с предупреждением и вариантами действий (retry/force umount — последнее обязательно)</td><td></td><td></td><td></td>
+<td colspan="2"/><td>В том случае, если при попытке безопасного извлечения устройство занято какой-то программой, выдавать диалог с предупреждением и вариантами действий (retry/force umount — последнее обязательно)</td>
+<td></td>
+<td></td><td>http://files.opensuse.org/opensuse/en/thumb/0/0c/NotApplicable.png/24px-NotApplicable.png</td>
 </tr>
 
 <tr>
 <td/><td colspan="2"><h3>FAT</h3></td><td></td><td></td><td></td>
 </tr><tr>
-<td colspan="2"/><td>Интерфейс для монтирования по требованию работает для простого пользователя или при попытке подключения требует пароль супер-пользователя</td><td></td><td></td><td></td>
+<td colspan="2"/><td>Интерфейс для монтирования по требованию работает для простого пользователя или при попытке подключения требует пароль супер-пользователя</td>
+<td></td>
+<td>1</td><td>http://files.opensuse.org/opensuse/en/thumb/4/4e/Cross.png/22px-Cross.png</td>
 </tr><tr>
-<td colspan="2"/><td>Чтение и запись включены по умолчанию для простого пользователя</td><td></td><td></td><td></td>
+<td colspan="2"/><td>Чтение и запись включены по умолчанию для простого пользователя</td>
+<td></td>
+<td></td><td>http://files.opensuse.org/opensuse/en/thumb/0/0c/NotApplicable.png/24px-NotApplicable.png</td>
 </tr><tr>
-<td colspan="2"/><td>Правильная кодировка русских файлов</td><td></td><td></td><td></td>
+<td colspan="2"/><td>Правильная кодировка русских файлов</td>
+<td></td>
+<td></td><td>http://files.opensuse.org/opensuse/en/thumb/0/0c/NotApplicable.png/24px-NotApplicable.png</td>
 </tr>
 
 <tr>
 <td/><td colspan="2"><h3>NTFS</h3></td><td></td><td></td><td></td>
 </tr><tr>
-<td colspan="2"/><td>Интерфейс для монтирования по требованию работает для простого пользователя или при попытке подключения требует пароль супер-пользователя</td><td></td><td></td><td></td>
+<td colspan="2"/><td>Интерфейс для монтирования по требованию работает для простого пользователя или при попытке подключения требует пароль супер-пользователя</td>
+<td></td>
+<td>1</td><td>http://files.opensuse.org/opensuse/en/thumb/4/4e/Cross.png/22px-Cross.png</td>
 </tr><tr>
-<td colspan="2"/><td>Чтение и запись включены по умолчанию для простого пользователя</td><td></td><td></td><td></td>
+<td colspan="2"/><td>Чтение и запись включены по умолчанию для простого пользователя</td>
+<td></td>
+<td></td><td>http://files.opensuse.org/opensuse/en/thumb/0/0c/NotApplicable.png/24px-NotApplicable.png</td>
 </tr><tr>
-<td colspan="2"/><td>Правильная кодировка русских файлов</td><td></td><td></td><td></td>
+<td colspan="2"/><td>Правильная кодировка русских файлов</td>
+<td></td>
+<td></td><td>http://files.opensuse.org/opensuse/en/thumb/0/0c/NotApplicable.png/24px-NotApplicable.png</td>
 </tr>
 
 <wiki:comment>
@@ -156,7 +176,9 @@
 <tr>
 <td colspan="3"><h2>Микрофон</h2></td><td></td><td></td><td></td>
 </tr><tr>
-<td colspan="2"/><td>Запись звука (krecord) без необходимости таскать ползунки в alsa-mixer</td><td></td><td></td><td></td>
+<td colspan="2"/><td>Запись звука (krecord) без необходимости таскать ползунки в alsa-mixer</td>
+<td></td>
+<td></td><td></td>
 </tr>
 
 <wiki:comment>
@@ -168,11 +190,17 @@
 <tr>
 <td colspan="3"><h2>Web-камера</h2></td><td></td><td></td><td></td>
 </tr><tr>
-<td colspan="2"/><td>kopete</td><td></td><td></td><td></td>
+<td colspan="2"/><td>kopete</td>
+<td></td>
+<td>2</td><td>http://files.opensuse.org/opensuse/en/3/30/22px-Tick.png</td>
 </tr><tr>
-<td colspan="2"/><td>skype</td><td></td><td></td><td></td>
+<td colspan="2"/><td>skype</td>
+<td></td>
+<td></td><td>http://files.opensuse.org/opensuse/en/thumb/0/0c/NotApplicable.png/24px-NotApplicable.png</td>
 </tr><tr>
-<td colspan="2"/><td>luvcview</td><td></td><td></td><td></td>
+<td colspan="2"/><td>luvcview</td>
+<td></td>
+<td></td><td>http://files.opensuse.org/opensuse/en/thumb/0/0c/NotApplicable.png/24px-NotApplicable.png</td>
 </tr>
 
 <wiki:comment>
@@ -184,9 +212,12 @@
 <tr>
 <td colspan="3"><h2>Мультимедиа-клавиши</h2></td><td></td><td></td><td></td>
 </tr><tr>
-<td colspan="2"/><td>Назначены на действия по умолчанию — кнопки громкости должны сразу регулировать звук, играть/пауза/стоп должны запускать проигрывание музыки в плеере и тп.</td><td></td><td></td><td></td>
+<td colspan="2"/><td>Назначены на действия по умолчанию — кнопки громкости должны сразу регулировать звук, играть/пауза/стоп должны запускать проигрывание музыки в плеере и тп.</td><td></td>
+<td>1</td><td>http://files.opensuse.org/opensuse/en/thumb/4/4e/Cross.png/22px-Cross.png</td>
 </tr><tr>
-<td colspan="2"/><td>Возможность назначить произвольные действия — должны приниматься в качестве корректных кодов например в диалоге конфигурации горячих клавиш в amarok</td><td></td><td></td><td></td>
+<td colspan="2"/><td>Возможность назначить произвольные действия — должны приниматься в качестве корректных кодов например в диалоге конфигурации горячих клавиш в amarok</td>
+<td></td>
+<td>2</td><td>http://files.opensuse.org/opensuse/en/3/30/22px-Tick.png</td>
 </tr>
 
 <wiki:comment>
