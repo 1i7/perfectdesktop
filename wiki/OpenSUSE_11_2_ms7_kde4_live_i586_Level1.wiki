@@ -242,7 +242,7 @@
 <td>
 [http://code.google.com/p/perfectdesktop/wiki/OpenSUSE_11_2_ms7_kde4_live_i586_tc_HW_KeyboardGlobalKeys_PrtScr http://www.gstatic.com/codesite/ph/images/tearoff_icon.gif]
 </td>
-<td>1</td><td></td>
+<td>1</td><td>http://files.opensuse.org/opensuse/en/thumb/4/4e/Cross.png/22px-Cross.png</td>
 </tr>
 
 <wiki:comment>
