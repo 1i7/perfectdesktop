@@ -1,0 +1,7 @@
+#summary Кнопка Print Screen должна делать снимок экрана или вызывать соответсвующее приложение
+
+По умолчанию это действие не включено - чтобы включить:
+ # открыть System Setting
+ # Input Actions
+ # Поставить галку Preset Action/PrintScreen
+ # На вкладке Trigger назначить клавишу Print Screen в качестве Shortcut
