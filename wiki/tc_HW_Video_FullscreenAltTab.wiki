@@ -7,4 +7,4 @@
 
 *Ожидаемый результат:* фокус должен переключиться из полноэкранной игры на оконное приложение
 
-This will not be possible in all cases until [http://bugs.freedesktop.org/show_bug.cgi?id=4286 freedesktop.org bug] would be fixed
+Это не будет работать для всех приложений пока не будет исправлена [http://bugs.freedesktop.org/show_bug.cgi?id=4286 ошибка freedesktop.org] 
