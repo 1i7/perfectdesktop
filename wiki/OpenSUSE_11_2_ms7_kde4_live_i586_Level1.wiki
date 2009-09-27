@@ -21,7 +21,7 @@
 </wiki:comment>
 
 = Оборудование =
-
+1
 <table border="1px">
 
 <tr>
