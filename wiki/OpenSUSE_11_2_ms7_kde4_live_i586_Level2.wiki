@@ -71,12 +71,6 @@
 </tr>
 
 <tr>
-<td/><td colspan="2"><h3>Xv</h3></td><td></td><td></td><td></td>
-</tr><tr>
-<td colspan="2"/><td>...</td><td></td><td></td><td></td>
-</tr>
-
-<tr>
 <td/><td colspan="2"><h3>Разное</h3></td><td></td><td></td><td></td>
 </tr><tr>
 <td colspan="2"/><td>Выход из ВСЕХ полноэкранных приложений (игр) должен работать по alt+tab</td><td>[http://code.google.com/p/perfectdesktop/wiki/tc_HW_Video_FullscreenAltTab http://www.gstatic.com/codesite/ph/images/tearoff_icon.gif]</td><td></td><td></td>
