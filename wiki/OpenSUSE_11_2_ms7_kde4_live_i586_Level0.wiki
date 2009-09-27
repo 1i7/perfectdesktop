@@ -145,11 +145,11 @@
 </tr><tr>
 <td colspan="2"/><td>Уведомление о подключении с возможностью автомонтирования</td>
 <td></td>
-<td>2</td><td>http://files.opensuse.org/opensuse/en/3/30/22px-Tick.png</td>
+<td></td><td>http://files.opensuse.org/opensuse/en/thumb/0/0c/NotApplicable.png/24px-NotApplicable.png</td>
 </tr><tr>
 <td colspan="2"/><td>Автомонтирование или монтирование по требованию работает для простого пользователя</td>
 <td></td>
-<td></td><td>http://files.opensuse.org/opensuse/en/3/30/22px-Tick.png</td>
+<td></td><td>http://files.opensuse.org/opensuse/en/thumb/0/0c/NotApplicable.png/24px-NotApplicable.png</td>
 </tr><tr>
 <td colspan="2"/><td>Файловый менеджер не блокирует возможность безопасного отключения</td>
 <td></td>
