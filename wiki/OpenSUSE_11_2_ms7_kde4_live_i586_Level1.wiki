@@ -256,15 +256,15 @@
 </tr><tr>
 <td colspan="2"/><td>Запись файлов на диск и последующее чтение их на этом же компьютере с записанного диска</td>
 <td></td>
-<td></td><td></td>
+<td></td><td>http://files.opensuse.org/opensuse/en/thumb/0/0c/NotApplicable.png/24px-NotApplicable.png</td>
 </tr><tr>
 <td colspan="2"/><td>Запись/чтение файлов с русскими именами</td>
 <td></td>
-<td></td><td></td>
+<td></td><td>http://files.opensuse.org/opensuse/en/thumb/0/0c/NotApplicable.png/24px-NotApplicable.png</td>
 </tr><tr>
 <td colspan="2"/><td>Запись с галочкой «проверить записанные данные»</td>
 <td></td>
-<td></td><td></td>
+<td></td><td>http://files.opensuse.org/opensuse/en/thumb/0/0c/NotApplicable.png/24px-NotApplicable.png</td>
 </tr>
 </table>
 
