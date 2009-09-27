@@ -149,15 +149,15 @@
 </tr><tr>
 <td colspan="2"/><td>Автомонтирование или монтирование по требованию работает для простого пользователя</td>
 <td></td>
-<td>2</td><td>http://files.opensuse.org/opensuse/en/3/30/22px-Tick.png</td>
+<td></td><td>http://files.opensuse.org/opensuse/en/3/30/22px-Tick.png</td>
 </tr><tr>
 <td colspan="2"/><td>Файловый менеджер не блокирует возможность безопасного отключения</td>
 <td></td>
-<td>2</td><td>http://files.opensuse.org/opensuse/en/3/30/22px-Tick.png</td>
+<td></td><td>http://files.opensuse.org/opensuse/en/thumb/0/0c/NotApplicable.png/24px-NotApplicable.png</td>
 </tr><tr>
 <td colspan="2"/><td>Возможность извлечь диск в любой момент (даже если диск открыт в файловом менеджере или файл в процессе чтения и т.п). В этих случаях или форсить отмонтирование или выдавать диалог с предупреждением и вариантами действий (retry/force umount — последнее обязательно)</td>
 <td></td>
-<td></td><td></td>
+<td></td><td>http://files.opensuse.org/opensuse/en/thumb/0/0c/NotApplicable.png/24px-NotApplicable.png</td>
 </tr>
 
 </table>
