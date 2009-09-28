@@ -1,6 +1,7 @@
 #summary Содержание
 
 *дистрибутив:* _OpenSUSE 11.2 Milestone7 KDE4 live cd i586_
+
 *оборудование:* _ноутбук HP Pavilion dv6000_
 
 *Наборы тестов:*
