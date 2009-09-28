@@ -297,26 +297,48 @@
 <td colspan="3"><h2>Музыка</h2></td><td></td><td></td><td></td>
 </tr><tr>
 <td/><td colspan="2"><h3>Свободные форматы (ogg, flac)</h3></td><td></td><td></td><td></td>
+</tr>
+
+<tr>
+<td colspan="2" width="50px"/><td>Клик в файловом менеджере открывает музыкальный плеер и воспроизведение начинается без проблем</td>
+<td>
+[http://code.google.com/p/perfectdesktop/wiki/OpenSUSE_11_2_ms7_kde4_live_i586_tc_MM_Ogg_OpenPlayer http://www.gstatic.com/codesite/ph/images/tearoff_icon.gif]
+</td>
+<td>2</td><td>http://files.opensuse.org/opensuse/en/3/30/22px-Tick.png</td>
 </tr><tr>
-<td colspan="2" width="50px"/><td>Клик в файловом менеджере открывает музыкальный плеер и воспроизведение начинается без проблем</td><td></td><td></td><td></td>
+<td colspan="2"/><td>Метаинформация (теги) в открывшейся программе отобразились корректно</td>
+<td></td>
+<td></td><td></td>
 </tr><tr>
-<td colspan="2"/><td>Метаинформация (теги) в открывшейся программе отобразились корректно</td><td></td><td></td><td></td>
-</tr><tr>
-<td colspan="2"/><td>Русские теги отобразились корректно</td><td></td><td></td><td></td>
+<td colspan="2"/><td>Русские теги отобразились корректно</td>
+<td></td>
+<td></td><td></td>
 </tr>
 
 <tr>
 <td/><td colspan="2"><h3>Несвободные форматы (mp3, ape)</h3></td><td></td><td></td><td></td>
 </tr><tr>
-<td colspan="2"/><td>Клик в файловом менеджере открывает музыкальный плеер</td><td></td><td></td><td></td>
+<td colspan="2"/><td>Клик в файловом менеджере открывает музыкальный плеер</td>
+<td>
+[http://code.google.com/p/perfectdesktop/wiki/OpenSUSE_11_2_ms7_kde4_live_i586_tc_MM_MP3_OpenPlayer http://www.gstatic.com/codesite/ph/images/tearoff_icon.gif]
+</td>
+<td>1</td><td>http://files.opensuse.org/opensuse/en/thumb/4/4e/Cross.png/22px-Cross.png</td>
 </tr><tr>
-<td colspan="2"/><td>Если кодеки в системе по умолчанию не установлены, проверить наличие адекватного решения проблемы (или предложение установки выскочит прямо из плеера или наличие в интернете инструкции для их установки в текущем дистрибутиве)</td><td></td><td></td><td></td>
+<td colspan="2"/><td>Если кодеки в системе по умолчанию не установлены, проверить наличие адекватного решения проблемы (или предложение установки выскочит прямо из плеера или наличие в интернете инструкции для их установки в текущем дистрибутиве)</td>
+<td></td>
+<td></td><td>http://files.opensuse.org/opensuse/en/thumb/0/0c/NotApplicable.png/24px-NotApplicable.png</td>
 </tr><tr>
-<td colspan="2"/><td>При наличии кодеков в системе воспроизведение начинается без проблем</td><td></td><td></td><td></td>
+<td colspan="2"/><td>При наличии кодеков в системе воспроизведение начинается без проблем</td>
+<td></td>
+<td></td><td>http://files.opensuse.org/opensuse/en/thumb/0/0c/NotApplicable.png/24px-NotApplicable.png</td>
 </tr><tr>
-<td colspan="2"/><td>Метаинформация (теги) в открывшейся программе отобразились корректно</td><td></td><td></td><td></td>
+<td colspan="2"/><td>Метаинформация (теги) в открывшейся программе отобразились корректно</td>
+<td></td>
+<td></td><td>http://files.opensuse.org/opensuse/en/thumb/0/0c/NotApplicable.png/24px-NotApplicable.png</td>
 </tr><tr>
-<td colspan="2"/><td>Русские теги отобразились корректно (для mp3 - проверить отдельно IDV-1 и IDV-2 в разных файлах - если теги прописаны не в UTF, должен быть способ или перекодировать файл прямо из программы или прочитать информацию корректно без его модификации)</td><td></td><td></td><td></td>
+<td colspan="2"/><td>Русские теги отобразились корректно (для mp3 - проверить отдельно IDV-1 и IDV-2 в разных файлах - если теги прописаны не в UTF, должен быть способ или перекодировать файл прямо из программы или прочитать информацию корректно без его модификации)</td>
+<td></td>
+<td></td><td>http://files.opensuse.org/opensuse/en/thumb/0/0c/NotApplicable.png/24px-NotApplicable.png</td>
 </tr>
 
 <wiki:comment>
@@ -330,7 +352,11 @@
 </tr><tr>
 <td/><td colspan="2"><h3>Свободные форматы (oggv)</h3></td><td></td><td></td><td></td>
 </tr><tr>
-<td colspan="2"/><td>Клик в файловом менеджере открывает видео плеер и воспроизведение начинается без проблем</td><td></td><td></td><td></td>
+<td colspan="2"/><td>Клик в файловом менеджере открывает видео плеер и воспроизведение начинается без проблем</td>
+<td>
+[http://code.google.com/p/perfectdesktop/wiki/OpenSUSE_11_2_ms7_kde4_live_i586_tc_MM_Ogv_OpenPlayer http://www.gstatic.com/codesite/ph/images/tearoff_icon.gif]
+</td>
+<td></td><td></td>
 </tr>
 
 <tr>
