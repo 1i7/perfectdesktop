@@ -218,12 +218,14 @@
 <td>2</td><td>http://files.opensuse.org/opensuse/en/3/30/22px-Tick.png</td>
 </tr><tr>
 <td colspan="2"/><td>стрелки вправо/влево: перемотка на небольшой отрезок</td>
-<td></td>
-<td>1</td><td></td>
+<td>
+[http://code.google.com/p/perfectdesktop/wiki/tc_MM_Video_HKeys_LeftRight http://www.gstatic.com/codesite/ph/images/tearoff_icon.gif]
+</td>
+<td>1</td><td>http://files.opensuse.org/opensuse/en/thumb/4/4e/Cross.png/22px-Cross.png</td>
 </tr><tr>
 <td colspan="2"/><td>pg up/pg down: перемотка на большой отрезок</td>
 <td></td>
-<td></td><td></td>
+<td>2</td><td>http://files.opensuse.org/opensuse/en/3/30/22px-Tick.png</td>
 </tr><tr>
 <td colspan="2"/><td>alt+enter/двойной клик: переключение полноэкранного и оконного режимов</td>
 <td></td>
