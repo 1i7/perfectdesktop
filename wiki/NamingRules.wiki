@@ -1,0 +1,15 @@
+#summary Wiki page naming rules
+
+Wiki page naming
+===Test case pages: tc_CAT_Subcat__TestName===
+
+where 
+  * tc means "test case"
+  * CAT is test category short name:
+   * HW - hardware
+   * SF - software
+   * MM - multimedia
+   * WEB - internet
+  * Subcat is test subcategory name
+
+example: tc_HW_Sound_TestSound
