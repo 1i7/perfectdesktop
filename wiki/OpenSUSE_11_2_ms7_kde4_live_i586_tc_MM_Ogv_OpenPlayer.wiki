@@ -1,5 +1,5 @@
 #summary One-sentence summary of this page.
 
-= Introduction =
+Пример файла в формате Ogg Video:
 http://commons.wikimedia.org/wiki/File:Pentagon_News_Sample.ogg
-http://upload.wikimedia.org/wikipedia/commons/9/9b/Pentagon_News_Sample.ogg
+[http://upload.wikimedia.org/wikipedia/commons/9/9b/Pentagon_News_Sample.ogg Pentagon_News_Sample.ogg]
