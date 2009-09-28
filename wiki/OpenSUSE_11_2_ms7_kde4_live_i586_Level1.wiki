@@ -376,12 +376,22 @@
 </tr>
 
 <tr>
-<td/><td colspan="2"><h3>Прочее</h3></td><td></td><td></td><td></td>
+<td/><td colspan="2"><h3>Прочее</h3></td>
+<td>
+[http://code.google.com/p/perfectdesktop/wiki/OpenSUSE_11_2_ms7_kde4_live_i586_tc_MM_Video_Other http://www.gstatic.com/codesite/ph/images/tearoff_icon.gif]
+</td>
+<td></td><td></td>
 </tr><tr>
-<td colspan="2"/><td>В полноэкранном режиме при бездействии через 3-5 секунд пропадает курсор мыши</td><td></td><td></td><td></td>
+<td colspan="2"/><td>В полноэкранном режиме при бездействии через 3-5 секунд пропадает курсор мыши</td>
+<td></td>
+<td>-1</td><td>http://files.opensuse.org/opensuse/en/thumb/4/4e/Cross.png/22px-Cross.png</td>
 </tr><tr>
-<td colspan="2"/><td>В полноэкранном режиме при помещении курсора мыши к нижней или верхней границе экрана всплывает панель для управления воспроизведением (ползунок с текущей позицией и регулятор громкости)</td><td></td><td></td><td></td>
+<td colspan="2"/><td>В полноэкранном режиме при помещении курсора мыши к нижней или верхней границе экрана всплывает панель для управления воспроизведением (ползунок с текущей позицией и регулятор громкости)</td>
+<td></td>
+<td>2</td><td>http://files.opensuse.org/opensuse/en/3/30/22px-Tick.png</td>
 </tr><tr>
-<td colspan="2"/><td>При проигрывании файла (в полноэкранном режиме или в окне) автоматически блокируется отключение экрана/саспенд и пр.</td><td></td><td></td><td></td>
+<td colspan="2"/><td>При проигрывании файла (в полноэкранном режиме или в окне) автоматически блокируется отключение экрана/саспенд и пр.</td>
+<td></td>
+<td>2</td><td>http://files.opensuse.org/opensuse/en/3/30/22px-Tick.png</td>
 </tr>
 </table>
