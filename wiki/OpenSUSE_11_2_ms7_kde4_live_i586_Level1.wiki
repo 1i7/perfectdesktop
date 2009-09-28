@@ -184,10 +184,12 @@
 <tr>
 <td colspan="3"><h2>Микрофон</h2></td><td></td><td></td><td></td>
 </tr>
-[http://code.google.com/p/perfectdesktop/wiki/OpenSUSE_11_2_ms7_kde4_live_i586_tc_HW_Microphone_SimpleTest http://www.gstatic.com/codesite/ph/images/tearoff_icon.gif]
+
 <tr>
 <td colspan="2"/><td>Запись звука (krecord) без необходимости таскать ползунки в alsa-mixer</td>
-<td></td>
+<td>
+[http://code.google.com/p/perfectdesktop/wiki/OpenSUSE_11_2_ms7_kde4_live_i586_tc_HW_Microphone_SimpleTest http://www.gstatic.com/codesite/ph/images/tearoff_icon.gif]
+</td>
 <td></td><td>http://files.opensuse.org/opensuse/en/thumb/0/0c/NotApplicable.png/24px-NotApplicable.png</td>
 </tr>
 
