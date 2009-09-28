@@ -3,19 +3,14 @@
 ===дистрибутив: _OpenSUSE 11.2 Milestone7 KDE4 live cd i586_===
 ===оборудование: _ноутбук HP Pavilion dv6000_===
 
-баллы:
- * *2* - тест пройден в полном объеме
- * *1* - скорее пройден, чем не пройден: _тест или пройден с некоторыми незначительными недочетами, или для работы потребовалось совершить незначительные дополнительные настройки, или установить дополнительное программное обеспечение_
- * *-1* - скорее не пройден, чем пройден: _тест проходит не в полном объеме, существующие проблемы или не устранимы, или их устранение требует специальных навыков и серьезной модификации системы (пересборка ядра)_
- * *-2* - тест не пройден вообще
-
-
-статус:
- * http://files.opensuse.org/opensuse/en/3/30/22px-Tick.png *pass* - тест пройден (баллы 2)
- * http://files.opensuse.org/opensuse/en/thumb/4/4e/Cross.png/22px-Cross.png *fail* - тест не пройден (баллы от -2 до 1)
- * http://files.opensuse.org/opensuse/en/thumb/0/0c/NotApplicable.png/24px-NotApplicable.png *N/A* - тест не выполнялся
-
-Наборы тестов:
+*Наборы тестов:*
  * [http://code.google.com/p/perfectdesktop/wiki/OpenSUSE_11_2_ms7_kde4_live_i586_Level0 Уровень 0: необходимый минимум]
  * [http://code.google.com/p/perfectdesktop/wiki/OpenSUSE_11_2_ms7_kde4_live_i586_Level1 Уровень 1: базовые возможности]
  * [http://code.google.com/p/perfectdesktop/wiki/OpenSUSE_11_2_ms7_kde4_live_i586_Level2 Уровень 2: расширенные тесты]
+
+*Результат:*
+Отчеты об ошибках по результатам тестирования:
+ * [https://bugs.kde.org/show_bug.cgi?id=197860  improve "device is busy" notification when try to eject busy media]
+ * [https://bugzilla.novell.com/show_bug.cgi?id=541428 flash drives with FAT filesystem are mounted read-only]
+ * [https://bugzilla.novell.com/show_bug.cgi?id=541753 NTFS/FAT hard drive partitions are not mounted on user request from dolphin]
+ * [http://bugs.freedesktop.org/show_bug.cgi?id=4286 implement ability to switch away from windows which have grabbed input]
