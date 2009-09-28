@@ -37,49 +37,85 @@
 <tr>
 <td colspan="3"><h2>Видео: 3-D, композитинг</h2></td><td></td><td></td><td></td>
 </tr><tr>
-<td colspan="2" width="50px"/><td>поддержка 3-D ускорения</td><td></td><td></td><td></td>
+<td colspan="2" width="50px"/><td>поддержка 3-D ускорения</td>
+<td></td>
+<td>2</td><td>http://files.opensuse.org/opensuse/en/3/30/22px-Tick.png</td>
 </tr><tr>
-<td colspan="2"/><td>работа 3-D эффектов в текущем оконном менеджере (compiz/kwin)</td><td></td><td></td><td></td>
+<td colspan="2"/><td>работа 3-D эффектов в текущем оконном менеджере (compiz/kwin)</td>
+<td></td>
+<td>2</td><td>http://files.opensuse.org/opensuse/en/3/30/22px-Tick.png</td>
 </tr>
 
 <tr>
 <td/><td colspan="2"><h3>Работа 3-D программ</h3></td><td></td><td></td><td></td>
 </tr><tr>
-<td colspan="2"/><td>blender</td><td></td><td></td><td></td>
+<td colspan="2"/><td>glxgears</td>
+<td></td>
+<td>2</td><td>http://files.opensuse.org/opensuse/en/3/30/22px-Tick.png</td>
 </tr><tr>
-<td colspan="2"/><td>3D-mark (аналог от phoronix)</td><td></td><td></td><td></td>
+<td colspan="2"/><td>blender</td>
+<td></td>
+<td></td><td>http://files.opensuse.org/opensuse/en/thumb/0/0c/NotApplicable.png/24px-NotApplicable.png</td>
 </tr><tr>
-<td colspan="2"/><td>warsaw</td><td></td><td></td><td></td>
+<td colspan="2"/><td>3D-mark (аналог от phoronix)</td>
+<td></td>
+<td></td><td>http://files.opensuse.org/opensuse/en/thumb/0/0c/NotApplicable.png/24px-NotApplicable.png</td>
 </tr><tr>
-<td colspan="2"/><td>xmoto</td><td></td><td></td><td></td>
+<td colspan="2"/><td>warsaw</td>
+<td></td>
+<td></td><td>http://files.opensuse.org/opensuse/en/thumb/0/0c/NotApplicable.png/24px-NotApplicable.png</td>
+</tr><tr>
+<td colspan="2"/><td>xmoto</td>
+<td></td>
+<td></td><td>http://files.opensuse.org/opensuse/en/thumb/0/0c/NotApplicable.png/24px-NotApplicable.png</td>
 </tr>
 
 <tr>
 <td/><td colspan="2"><h3>Совместная работа 3-D программ</h3></td><td></td><td></td><td></td>
 </tr><tr>
-<td colspan="2"/><td>Несколько окон с 3D играми, блендером (стабильность работы, переключение по alt+tab)</td><td></td><td></td><td></td>
+<td colspan="2"/><td>Несколько окон с 3D играми, блендером (стабильность работы, переключение по alt+tab)</td>
+<td></td>
+<td></td><td>http://files.opensuse.org/opensuse/en/thumb/0/0c/NotApplicable.png/24px-NotApplicable.png</td>
 </tr><tr>
-<td colspan="2"/><td>Несколько окон с 3D играми + полноэкранная игра (стабильность работы, переключение по alt+tab)</td><td></td><td></td><td></td>
+<td colspan="2"/><td>Несколько окон с 3D играми + полноэкранная игра (стабильность работы, переключение по alt+tab)</td>
+<td></td>
+<td></td><td>http://files.opensuse.org/opensuse/en/thumb/0/0c/NotApplicable.png/24px-NotApplicable.png</td>
 </tr>
 
 <tr>
-<td/><td colspan="2"><h3>Совместная работа композитинга и 3-D программ</h3></td><td></td><td></td><td></td>
+<td/><td colspan="2"><h3>Совместная работа композитинга и 3-D программ</h3></td>
+<td></td>
+<td></td><td></td>
 </tr><tr>
-<td colspan="2"/><td>Несколько окон с 3D играми, блендером (стабильность работы, переключение по alt+tab)</td><td></td><td></td><td></td>
+<td colspan="2"/><td>Несколько окон с 3D играми, блендером (стабильность работы, переключение по alt+tab)</td>
+<td></td>
+<td></td><td>http://files.opensuse.org/opensuse/en/thumb/0/0c/NotApplicable.png/24px-NotApplicable.png</td>
 </tr><tr>
-<td colspan="2"/><td>Несколько окон с 3D играми + полноэкранная игра (стабильность работы, переключение по alt+tab)</td><td></td><td></td><td></td>
+<td colspan="2"/><td>Несколько окон с 3D играми + полноэкранная игра (стабильность работы, переключение по alt+tab)</td>
+<td></td>
+<td></td><td>http://files.opensuse.org/opensuse/en/thumb/0/0c/NotApplicable.png/24px-NotApplicable.png</td>
 </tr>
 
 <tr>
 <td/><td colspan="2"><h3>Разное</h3></td><td></td><td></td><td></td>
 </tr><tr>
-<td colspan="2"/><td>Выход из ВСЕХ полноэкранных приложений (игр) должен работать по alt+tab</td><td>[http://code.google.com/p/perfectdesktop/wiki/tc_HW_Video_FullscreenAltTab http://www.gstatic.com/codesite/ph/images/tearoff_icon.gif]</td><td></td><td></td>
+<td colspan="2"/><td>Выход из ВСЕХ полноэкранных приложений (игр) должен работать по alt+tab</td>
+<td>
+[http://code.google.com/p/perfectdesktop/wiki/tc_HW_Video_FullscreenAltTab http://www.gstatic.com/codesite/ph/images/tearoff_icon.gif]
+</td>
+<td>-1</td><td></td>
 </tr><tr>
-<td colspan="2"/><td>Аналогично - должны работать все глобальные горячие клавиши - например регулятор громкости на мультимедиа-клавиатуре</td><td></td><td></td><td></td>
+<td colspan="2"/><td>Аналогично - должны работать все глобальные горячие клавиши - например регулятор громкости на мультимедиа-клавиатуре</td>
+<td></td>
+<td>-1</td><td>http://files.opensuse.org/opensuse/en/thumb/4/4e/Cross.png/22px-Cross.png</td>
 </tr><tr>
-<td colspan="2"/><td>При возвращении в игру все должно продолжиться без проблем</td><td></td><td></td><td></td>
+<td colspan="2"/><td>При возвращении в игру все должно продолжиться без проблем</td>
+<td></td>
+<td></td><td>http://files.opensuse.org/opensuse/en/thumb/0/0c/NotApplicable.png/24px-NotApplicable.png</td>
 </tr><tr>
-<td colspan="2"/><td>Suspend (Disk/RAM) должен корректно работать для полноэкранных запущенных игр и для оконных 3D игр тоже</td><td></td><td></td><td></td>
+<td colspan="2"/><td>Suspend (Disk/RAM) должен корректно работать для полноэкранных запущенных игр и для оконных 3D игр тоже</td>
+<td></td>
+<td></td><td>http://files.opensuse.org/opensuse/en/thumb/0/0c/NotApplicable.png/24px-NotApplicable.png</td>
 </tr>
 
 <wiki:comment>
@@ -93,9 +129,13 @@
 </tr><tr>
 <td/><td colspan="2"><h3>Совместная работа разных программ</h3></td><td></td><td></td><td></td>
 </tr><tr>
-<td colspan="2"/><td>skype+amarok</td><td></td><td></td><td></td>
+<td colspan="2"/><td>skype+amarok</td>
+<td></td>
+<td></td><td>http://files.opensuse.org/opensuse/en/thumb/0/0c/NotApplicable.png/24px-NotApplicable.png</td>
 </tr><tr>
-<td colspan="2"/><td>flash+amarok</td><td></td><td></td><td></td>
+<td colspan="2"/><td>flash+amarok</td>
+<td></td>
+<td></td><td>http://files.opensuse.org/opensuse/en/thumb/0/0c/NotApplicable.png/24px-NotApplicable.png</td>
 </tr>
 
 <wiki:comment>
