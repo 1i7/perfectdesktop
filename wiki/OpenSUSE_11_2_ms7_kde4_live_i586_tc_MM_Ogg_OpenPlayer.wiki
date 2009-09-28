@@ -1,4 +1,4 @@
 #summary One-sentence summary of this page.
 
-http://www.xiph.org/vorbis/listen.html
-http://www.xiph.org/vorbis/listen/41_30secOgg-q0.ogg
+http://vorbis.com/music/
+http://www.vorbis.com/music/Hydrate-Kenny_Beltrey.ogg
