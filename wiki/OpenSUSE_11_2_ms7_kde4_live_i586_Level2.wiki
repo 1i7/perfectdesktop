@@ -106,7 +106,9 @@
 <td>-1</td><td>http://files.opensuse.org/opensuse/en/thumb/4/4e/Cross.png/22px-Cross.png</td>
 </tr><tr>
 <td colspan="2"/><td>Аналогично - должны работать все глобальные горячие клавиши - например регулятор громкости на мультимедиа-клавиатуре</td>
-<td></td>
+<td>
+[http://code.google.com/p/perfectdesktop/wiki/tc_HW_Video_FullscreenHotKeys http://www.gstatic.com/codesite/ph/images/tearoff_icon.gif]
+</td>
 <td>-1</td><td>http://files.opensuse.org/opensuse/en/thumb/4/4e/Cross.png/22px-Cross.png</td>
 </tr><tr>
 <td colspan="2"/><td>При возвращении в игру все должно продолжиться без проблем</td>
