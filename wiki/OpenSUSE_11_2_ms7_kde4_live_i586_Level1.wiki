@@ -72,7 +72,11 @@
 <td></td>
 <td>2</td><td>http://files.opensuse.org/opensuse/en/3/30/22px-Tick.png</td>
 </tr><tr>
-<td colspan="2"/><td>В том случае, если при попытке безопасного извлечения устройство занято какой-то программой, выдавать диалог с предупреждением и вариантами действий (retry/force umount — последнее обязательно)</td><td></td><td></td><td></td>
+<td colspan="2"/><td>В том случае, если при попытке безопасного извлечения устройство занято какой-то программой, выдавать диалог с предупреждением и вариантами действий (retry/force umount — последнее обязательно)</td>
+<td>
+[http://code.google.com/p/perfectdesktop/wiki/OpenSUSE_11_2_ms7_kde4_live_i586_tc_HW_SDCard_NonLocked http://www.gstatic.com/codesite/ph/images/tearoff_icon.gif]
+</td>
+<td>-1</td><td>http://files.opensuse.org/opensuse/en/thumb/4/4e/Cross.png/22px-Cross.png</td>
 </tr>
 
 <tr>
