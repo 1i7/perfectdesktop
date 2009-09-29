@@ -37,6 +37,8 @@
 </tr><tr>
 <td colspan="2"/><td>3D-mark (аналог от phoronix)</td><td></td><td></td><td></td>
 </tr><tr>
+<td colspan="2"/><td>lightmark</td><td></td><td></td><td></td>
+</tr><tr>
 <td colspan="2"/><td>warsaw</td><td></td><td></td><td></td>
 </tr><tr>
 <td colspan="2"/><td>xmoto</td><td></td><td></td><td></td>
