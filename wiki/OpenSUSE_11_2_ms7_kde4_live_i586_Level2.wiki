@@ -11,8 +11,8 @@
 
 статус:
  * http://ru.opensuse.org/images/3/30/22px-Tick.png *pass* - тест пройден (баллы 2)
- * http://ru.opensuse.org/images/4/4e/Cross.png *fail* - тест не пройден (баллы от -2 до 1)
- * http://ru.opensuse.org/images/0/0c/NotApplicable.png *N/A* - тест не выполнялся
+ * http://en.opensuse.org/images/thumb/b/bc/Icon-cross.png/22px-Icon-cross.png *fail* - тест не пройден (баллы от -2 до 1)
+ * http://en.opensuse.org/images/0/0c/NotApplicable.png *N/A* - тест не выполнялся
 
 <wiki:comment>
 ###############################################
@@ -55,19 +55,19 @@
 </tr><tr>
 <td colspan="2"/><td>blender</td>
 <td></td>
-<td></td><td>http://files.opensuse.org/opensuse/en/thumb/0/0c/NotApplicable.png/24px-NotApplicable.png</td>
+<td></td><td>http://en.opensuse.org/images/0/0c/NotApplicable.png</td>
 </tr><tr>
 <td colspan="2"/><td>3D-mark (аналог от phoronix)</td>
 <td></td>
-<td></td><td>http://files.opensuse.org/opensuse/en/thumb/0/0c/NotApplicable.png/24px-NotApplicable.png</td>
+<td></td><td>http://en.opensuse.org/images/0/0c/NotApplicable.png</td>
 </tr><tr>
 <td colspan="2"/><td>warsaw</td>
 <td></td>
-<td></td><td>http://files.opensuse.org/opensuse/en/thumb/0/0c/NotApplicable.png/24px-NotApplicable.png</td>
+<td></td><td>http://en.opensuse.org/images/0/0c/NotApplicable.png</td>
 </tr><tr>
 <td colspan="2"/><td>xmoto</td>
 <td></td>
-<td></td><td>http://files.opensuse.org/opensuse/en/thumb/0/0c/NotApplicable.png/24px-NotApplicable.png</td>
+<td></td><td>http://en.opensuse.org/images/0/0c/NotApplicable.png</td>
 </tr>
 
 <tr>
@@ -75,11 +75,11 @@
 </tr><tr>
 <td colspan="2"/><td>Несколько окон с 3D играми, блендером (стабильность работы, переключение по alt+tab)</td>
 <td></td>
-<td></td><td>http://files.opensuse.org/opensuse/en/thumb/0/0c/NotApplicable.png/24px-NotApplicable.png</td>
+<td></td><td>http://en.opensuse.org/images/0/0c/NotApplicable.png</td>
 </tr><tr>
 <td colspan="2"/><td>Несколько окон с 3D играми + полноэкранная игра (стабильность работы, переключение по alt+tab)</td>
 <td></td>
-<td></td><td>http://files.opensuse.org/opensuse/en/thumb/0/0c/NotApplicable.png/24px-NotApplicable.png</td>
+<td></td><td>http://en.opensuse.org/images/0/0c/NotApplicable.png</td>
 </tr>
 
 <tr>
@@ -89,11 +89,11 @@
 </tr><tr>
 <td colspan="2"/><td>Несколько окон с 3D играми, блендером (стабильность работы, переключение по alt+tab)</td>
 <td></td>
-<td></td><td>http://files.opensuse.org/opensuse/en/thumb/0/0c/NotApplicable.png/24px-NotApplicable.png</td>
+<td></td><td>http://en.opensuse.org/images/0/0c/NotApplicable.png</td>
 </tr><tr>
 <td colspan="2"/><td>Несколько окон с 3D играми + полноэкранная игра (стабильность работы, переключение по alt+tab)</td>
 <td></td>
-<td></td><td>http://files.opensuse.org/opensuse/en/thumb/0/0c/NotApplicable.png/24px-NotApplicable.png</td>
+<td></td><td>http://en.opensuse.org/images/0/0c/NotApplicable.png</td>
 </tr>
 
 <tr>
@@ -113,11 +113,11 @@
 </tr><tr>
 <td colspan="2"/><td>При возвращении в игру все должно продолжиться без проблем</td>
 <td></td>
-<td></td><td>http://files.opensuse.org/opensuse/en/thumb/0/0c/NotApplicable.png/24px-NotApplicable.png</td>
+<td></td><td>http://en.opensuse.org/images/0/0c/NotApplicable.png</td>
 </tr><tr>
 <td colspan="2"/><td>Suspend (Disk/RAM) должен корректно работать для полноэкранных запущенных игр и для оконных 3D игр тоже</td>
 <td></td>
-<td></td><td>http://files.opensuse.org/opensuse/en/thumb/0/0c/NotApplicable.png/24px-NotApplicable.png</td>
+<td></td><td>http://en.opensuse.org/images/0/0c/NotApplicable.png</td>
 </tr>
 
 <wiki:comment>
@@ -133,11 +133,11 @@
 </tr><tr>
 <td colspan="2"/><td>skype+amarok</td>
 <td></td>
-<td></td><td>http://files.opensuse.org/opensuse/en/thumb/0/0c/NotApplicable.png/24px-NotApplicable.png</td>
+<td></td><td>http://en.opensuse.org/images/0/0c/NotApplicable.png</td>
 </tr><tr>
 <td colspan="2"/><td>flash+amarok</td>
 <td></td>
-<td></td><td>http://files.opensuse.org/opensuse/en/thumb/0/0c/NotApplicable.png/24px-NotApplicable.png</td>
+<td></td><td>http://en.opensuse.org/images/0/0c/NotApplicable.png</td>
 </tr>
 
 <wiki:comment>
@@ -151,11 +151,11 @@
 </tr><tr>
 <td colspan="2"/><td>Suspend to disk</td>
 <td></td>
-<td></td><td>http://files.opensuse.org/opensuse/en/thumb/0/0c/NotApplicable.png/24px-NotApplicable.png</td>
+<td></td><td>http://en.opensuse.org/images/0/0c/NotApplicable.png</td>
 </tr><tr>
 <td colspan="2"/><td>Suspend to RAM</td>
 <td></td>
-<td></td><td>http://files.opensuse.org/opensuse/en/thumb/0/0c/NotApplicable.png/24px-NotApplicable.png</td>
+<td></td><td>http://en.opensuse.org/images/0/0c/NotApplicable.png</td>
 </tr>
 
 <wiki:comment>
@@ -209,7 +209,7 @@
 </tr><tr>
 <td colspan="2" width="50px"/><td>Возможность выбора звуковой/видео дорожки</td>
 <td></td>
-<td></td><td>http://files.opensuse.org/opensuse/en/thumb/0/0c/NotApplicable.png/24px-NotApplicable.png</td>
+<td></td><td>http://en.opensuse.org/images/0/0c/NotApplicable.png</td>
 </tr>
 
 <tr>
@@ -239,19 +239,19 @@
 </tr><tr>
 <td colspan="2"/><td>Автоматическая подгрузка</td>
 <td></td>
-<td></td><td>http://files.opensuse.org/opensuse/en/thumb/0/0c/NotApplicable.png/24px-NotApplicable.png</td>
+<td></td><td>http://en.opensuse.org/images/0/0c/NotApplicable.png</td>
 </tr><tr>
 <td colspan="2"/><td>Выбор файла вручную</td>
 <td></td>
-<td></td><td>http://files.opensuse.org/opensuse/en/thumb/0/0c/NotApplicable.png/24px-NotApplicable.png</td>
+<td></td><td>http://en.opensuse.org/images/0/0c/NotApplicable.png</td>
 </tr><tr>
 <td colspan="2"/><td>Задание смещения</td>
 <td></td>
-<td></td><td>http://files.opensuse.org/opensuse/en/thumb/0/0c/NotApplicable.png/24px-NotApplicable.png</td>
+<td></td><td>http://en.opensuse.org/images/0/0c/NotApplicable.png</td>
 </tr><tr>
 <td colspan="2"/><td>Корректное чтение русских субтитров (проверить разные форматы в разных кодировках)</td>
 <td></td>
-<td></td><td>http://files.opensuse.org/opensuse/en/thumb/0/0c/NotApplicable.png/24px-NotApplicable.png</td>
+<td></td><td>http://en.opensuse.org/images/0/0c/NotApplicable.png</td>
 </tr>
 </table>
 
@@ -282,15 +282,15 @@
 </tr><tr>
 <td colspan="2" width="50px"/><td>общая работоспособность - открыть пару сайтов (youtube и какую-нибудь игрушку)</td>
 <td></td>
-<td></td><td>http://files.opensuse.org/opensuse/en/thumb/0/0c/NotApplicable.png/24px-NotApplicable.png</td>
+<td></td><td>http://en.opensuse.org/images/0/0c/NotApplicable.png</td>
 </tr><tr>
 <td colspan="2"/><td>полноэкранный режим (не должен вешать систему)</td>
 <td></td>
-<td></td><td>http://files.opensuse.org/opensuse/en/thumb/0/0c/NotApplicable.png/24px-NotApplicable.png</td>
+<td></td><td>http://en.opensuse.org/images/0/0c/NotApplicable.png</td>
 </tr><tr>
 <td colspan="2"/><td>проверить как работает звук совместно с другими программами (см предыдущие тесты)</td>
 <td></td>
-<td></td><td>http://files.opensuse.org/opensuse/en/thumb/0/0c/NotApplicable.png/24px-NotApplicable.png</td>
+<td></td><td>http://en.opensuse.org/images/0/0c/NotApplicable.png</td>
 </tr>
 
 <wiki:comment>
@@ -304,15 +304,15 @@
 </tr><tr>
 <td colspan="2"/><td>Качетственный звук в обоих направлениях</td>
 <td></td>
-<td></td><td>http://files.opensuse.org/opensuse/en/thumb/0/0c/NotApplicable.png/24px-NotApplicable.png</td>
+<td></td><td>http://en.opensuse.org/images/0/0c/NotApplicable.png</td>
 </tr><tr>
 <td colspan="2"/><td>Web-камера</td>
 <td></td>
-<td></td><td>http://files.opensuse.org/opensuse/en/thumb/0/0c/NotApplicable.png/24px-NotApplicable.png</td>
+<td></td><td>http://en.opensuse.org/images/0/0c/NotApplicable.png</td>
 </tr><tr>
 <td colspan="2"/><td>Совместная работа звука с другими программами (см предыдущие тесты)</td>
 <td></td>
-<td></td><td>http://files.opensuse.org/opensuse/en/thumb/0/0c/NotApplicable.png/24px-NotApplicable.png</td>
+<td></td><td>http://en.opensuse.org/images/0/0c/NotApplicable.png</td>
 </tr>
 
 <wiki:comment>
@@ -326,15 +326,15 @@
 </tr><tr>
 <td colspan="2"/><td>логин</td>
 <td></td>
-<td></td><td>http://files.opensuse.org/opensuse/en/thumb/0/0c/NotApplicable.png/24px-NotApplicable.png</td>
+<td></td><td>http://en.opensuse.org/images/0/0c/NotApplicable.png</td>
 </tr><tr>
 <td colspan="2"/><td>обмен сообщениями (в русской кодировке)</td>
 <td></td>
-<td></td><td>http://files.opensuse.org/opensuse/en/thumb/0/0c/NotApplicable.png/24px-NotApplicable.png</td>
+<td></td><td>http://en.opensuse.org/images/0/0c/NotApplicable.png</td>
 </tr><tr>
 <td colspan="2"/><td>обмен файлами</td>
 <td></td>
-<td></td><td>http://files.opensuse.org/opensuse/en/thumb/0/0c/NotApplicable.png/24px-NotApplicable.png</td>
+<td></td><td>http://en.opensuse.org/images/0/0c/NotApplicable.png</td>
 </tr>
 
 <tr>
@@ -342,11 +342,11 @@
 </tr><tr>
 <td colspan="2"/><td>голосовой вызов</td>
 <td></td>
-<td></td><td>http://files.opensuse.org/opensuse/en/thumb/0/0c/NotApplicable.png/24px-NotApplicable.png</td>
+<td></td><td>http://en.opensuse.org/images/0/0c/NotApplicable.png</td>
 </tr><tr>
 <td colspan="2"/><td>видео через веб-камеру</td>
 <td></td>
-<td></td><td>http://files.opensuse.org/opensuse/en/thumb/0/0c/NotApplicable.png/24px-NotApplicable.png</td>
+<td></td><td>http://en.opensuse.org/images/0/0c/NotApplicable.png</td>
 </tr>
 
 <wiki:comment>
@@ -360,22 +360,22 @@
 </tr><tr>
 <td colspan="2"/><td>логин</td>
 <td></td>
-<td></td><td>http://files.opensuse.org/opensuse/en/thumb/0/0c/NotApplicable.png/24px-NotApplicable.png</td>
+<td></td><td>http://en.opensuse.org/images/0/0c/NotApplicable.png</td>
 </tr><tr>
 <td colspan="2"/><td>обмен сообщениями в русской кодировке</td>
 <td></td>
-<td></td><td>http://files.opensuse.org/opensuse/en/thumb/0/0c/NotApplicable.png/24px-NotApplicable.png</td>
+<td></td><td>http://en.opensuse.org/images/0/0c/NotApplicable.png</td>
 </tr><tr>
 <td colspan="2"/><td>прием оффлайн-сообщений в русской кодировке</td>
 <td></td>
-<td></td><td>http://files.opensuse.org/opensuse/en/thumb/0/0c/NotApplicable.png/24px-NotApplicable.png</td>
+<td></td><td>http://en.opensuse.org/images/0/0c/NotApplicable.png</td>
 </tr><tr>
 <td colspan="2"/><td>обмен файлами</td>
 <td></td>
-<td></td><td>http://files.opensuse.org/opensuse/en/thumb/0/0c/NotApplicable.png/24px-NotApplicable.png</td>
+<td></td><td>http://en.opensuse.org/images/0/0c/NotApplicable.png</td>
 </tr><tr>
 <td colspan="2"/><td>(необязательно) поддержка звуковых тем/смайликов</td>
 <td></td>
-<td></td><td>http://files.opensuse.org/opensuse/en/thumb/0/0c/NotApplicable.png/24px-NotApplicable.png</td>
+<td></td><td>http://en.opensuse.org/images/0/0c/NotApplicable.png</td>
 </tr>
 </table>
