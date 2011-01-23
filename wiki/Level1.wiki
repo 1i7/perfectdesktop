@@ -10,9 +10,9 @@
 
 
 статус:
- * http://files.opensuse.org/opensuse/en/3/30/22px-Tick.png *pass* - тест пройден (баллы 2)
- * http://files.opensuse.org/opensuse/en/thumb/4/4e/Cross.png/22px-Cross.png *fail* - тест не пройден (баллы от -2 до 1)
- * http://files.opensuse.org/opensuse/en/thumb/0/0c/NotApplicable.png/24px-NotApplicable.png *N/A* - тест не выполнялся
+ * http://en.opensuse.org/images/thumb/4/4f/Icon-checked.png/22px-Icon-checked.png *pass* - тест пройден (баллы 2)
+ * http://en.opensuse.org/images/thumb/b/bc/Icon-cross.png/22px-Icon-cross.png *fail* - тест не пройден (баллы от -2 до 1)
+ * http://en.opensuse.org/images/thumb/5/57/Icon-question.png/22px-Icon-question.png *N/A* - тест не выполнялся
 
 <wiki:comment>
 ###############################################
