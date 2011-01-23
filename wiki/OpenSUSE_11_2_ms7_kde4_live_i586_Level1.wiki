@@ -10,9 +10,9 @@
 
 
 статус:
- * http://files.opensuse.org/opensuse/en/3/30/22px-Tick.png *pass* - тест пройден (баллы 2)
- * http://files.opensuse.org/opensuse/en/thumb/4/4e/Cross.png/22px-Cross.png *fail* - тест не пройден (баллы от -2 до 1)
- * http://files.opensuse.org/opensuse/en/thumb/0/0c/NotApplicable.png/24px-NotApplicable.png *N/A* - тест не выполнялся
+ * http://en.opensuse.org/images/thumb/4/4f/Icon-checked.png/22px-Icon-checked.png *pass* - тест пройден (баллы 2)
+ * http://en.opensuse.org/images/thumb/b/bc/Icon-cross.png/22px-Icon-cross.png *fail* - тест не пройден (баллы от -2 до 1)
+ * http://en.opensuse.org/images/thumb/5/57/Icon-question.png/22px-Icon-question.png *N/A* - тест не выполнялся
 
 <wiki:comment>
 ###############################################
@@ -40,15 +40,15 @@
 </tr><tr>
 <td colspan="2" width="50px"/><td>Автомонтирование или монтирование по требованию работает для простого пользователя</td>
 <td></td>
-<td>2</td><td>http://files.opensuse.org/opensuse/en/3/30/22px-Tick.png</td>
+<td>2</td><td>http://en.opensuse.org/images/thumb/4/4f/Icon-checked.png/22px-Icon-checked.png</td>
 </tr><tr>
 <td colspan="2"/><td>Чтение и запись включены по умолчанию для простого пользователя</td>
 <td></td>
-<td>2</td><td>http://files.opensuse.org/opensuse/en/3/30/22px-Tick.png</td>
+<td>2</td><td>http://en.opensuse.org/images/thumb/4/4f/Icon-checked.png/22px-Icon-checked.png</td>
 </tr><tr>
 <td colspan="2"/><td>Правильная кодировка русских файлов</td>
 <td></td>
-<td>2</td><td>http://files.opensuse.org/opensuse/en/3/30/22px-Tick.png</td>
+<td>2</td><td>http://en.opensuse.org/images/thumb/4/4f/Icon-checked.png/22px-Icon-checked.png</td>
 </tr>
 
 <wiki:comment>
@@ -62,21 +62,21 @@
 </tr><tr>
 <td colspan="2"/><td>Уведомление о подключении нового устройства с интерфейсом для монтирования</td>
 <td></td>
-<td>2</td><td>http://files.opensuse.org/opensuse/en/3/30/22px-Tick.png</td>
+<td>2</td><td>http://en.opensuse.org/images/thumb/4/4f/Icon-checked.png/22px-Icon-checked.png</td>
 </tr><tr>
 <td colspan="2"/><td>Инетерфейс для отключения и безопасного извлечения подключенного устройства</td>
 <td></td>
-<td>2</td><td>http://files.opensuse.org/opensuse/en/3/30/22px-Tick.png</td>
+<td>2</td><td>http://en.opensuse.org/images/thumb/4/4f/Icon-checked.png/22px-Icon-checked.png</td>
 </tr><tr>
 <td colspan="2"/><td>Файловый менеджер не блокирует возможность безопасного отключения</td>
 <td></td>
-<td>2</td><td>http://files.opensuse.org/opensuse/en/3/30/22px-Tick.png</td>
+<td>2</td><td>http://en.opensuse.org/images/thumb/4/4f/Icon-checked.png/22px-Icon-checked.png</td>
 </tr><tr>
 <td colspan="2"/><td>В том случае, если при попытке безопасного извлечения устройство занято какой-то программой, выдавать диалог с предупреждением и вариантами действий (retry/force umount — последнее обязательно)</td>
 <td>
 [http://code.google.com/p/perfectdesktop/wiki/OpenSUSE_11_2_ms7_kde4_live_i586_tc_HW_SDCard_NonLocked http://www.gstatic.com/codesite/ph/images/tearoff_icon.gif]
 </td>
-<td>-1</td><td>http://files.opensuse.org/opensuse/en/thumb/4/4e/Cross.png/22px-Cross.png</td>
+<td>-1</td><td>http://en.opensuse.org/images/thumb/b/bc/Icon-cross.png/22px-Icon-cross.png</td>
 </tr>
 
 <tr>
@@ -84,17 +84,17 @@
 </tr><tr>
 <td colspan="2"/><td>Автомонтирование или монтирование по требованию работает для простого пользователя</td>
 <td></td>
-<td>2</td><td>http://files.opensuse.org/opensuse/en/3/30/22px-Tick.png</td>
+<td>2</td><td>http://en.opensuse.org/images/thumb/4/4f/Icon-checked.png/22px-Icon-checked.png</td>
 </tr><tr>
 <td colspan="2"/><td>Чтение и запись включены по умолчанию для простого пользователя</td>
 <td>
 [http://code.google.com/p/perfectdesktop/wiki/OpenSUSE_11_2_ms7_kde4_live_i586_tc_HW_SDCard_FAT_RW http://www.gstatic.com/codesite/ph/images/tearoff_icon.gif]
 </td>
-<td>1</td><td>http://files.opensuse.org/opensuse/en/thumb/4/4e/Cross.png/22px-Cross.png</td>
+<td>1</td><td>http://en.opensuse.org/images/thumb/b/bc/Icon-cross.png/22px-Icon-cross.png</td>
 </tr><tr>
 <td colspan="2"/><td>Правильная кодировка русских файлов</td>
 <td></td>
-<td>2</td><td>http://files.opensuse.org/opensuse/en/3/30/22px-Tick.png</td>
+<td>2</td><td>http://en.opensuse.org/images/thumb/4/4f/Icon-checked.png/22px-Icon-checked.png</td>
 </tr>
 
 <tr>
@@ -102,15 +102,15 @@
 </tr><tr>
 <td colspan="2"/><td>Автомонтирование или монтирование по требованию работает для простого пользователя</td>
 <td></td>
-<td>2</td><td>http://files.opensuse.org/opensuse/en/3/30/22px-Tick.png</td>
+<td>2</td><td>http://en.opensuse.org/images/thumb/4/4f/Icon-checked.png/22px-Icon-checked.png</td>
 </tr><tr>
 <td colspan="2"/><td>Чтение и запись включены по умолчанию для простого пользователя</td>
 <td></td>
-<td>2</td><td>http://files.opensuse.org/opensuse/en/3/30/22px-Tick.png</td>
+<td>2</td><td>http://en.opensuse.org/images/thumb/4/4f/Icon-checked.png/22px-Icon-checked.png</td>
 </tr><tr>
 <td colspan="2"/><td>Правильная кодировка русских файлов</td>
 <td></td>
-<td>2</td><td>http://files.opensuse.org/opensuse/en/3/30/22px-Tick.png</td>
+<td>2</td><td>http://en.opensuse.org/images/thumb/4/4f/Icon-checked.png/22px-Icon-checked.png</td>
 </tr>
 
 <wiki:comment>
@@ -124,19 +124,19 @@
 </tr><tr>
 <td colspan="2"/><td>Просмотр списка разделов - как подключенных так и неподключенных - в очевидном месте (файл-менеджер или ссылка на рабочем столе или панели)</td>
 <td></td>
-<td>2</td><td>http://files.opensuse.org/opensuse/en/3/30/22px-Tick.png</td>
+<td>2</td><td>http://en.opensuse.org/images/thumb/4/4f/Icon-checked.png/22px-Icon-checked.png</td>
 </tr><tr>
 <td colspan="2"/><td>Автомонтирование или интерфейс для монтирования по требованию — без необходимости прописывать устройство руками в fstab</td>
 <td></td>
-<td>2</td><td>http://files.opensuse.org/opensuse/en/3/30/22px-Tick.png</td>
+<td>2</td><td>http://en.opensuse.org/images/thumb/4/4f/Icon-checked.png/22px-Icon-checked.png</td>
 </tr><tr>
 <td colspan="2"/><td>Файловый менеджер не блокирует возможность безопасного отключения</td>
 <td></td>
-<td></td><td>http://files.opensuse.org/opensuse/en/thumb/0/0c/NotApplicable.png/24px-NotApplicable.png</td>
+<td></td><td>http://en.opensuse.org/images/thumb/5/57/Icon-question.png/22px-Icon-question.png</td>
 </tr><tr>
 <td colspan="2"/><td>В том случае, если при попытке безопасного извлечения устройство занято какой-то программой, выдавать диалог с предупреждением и вариантами действий (retry/force umount — последнее обязательно)</td>
 <td></td>
-<td></td><td>http://files.opensuse.org/opensuse/en/thumb/0/0c/NotApplicable.png/24px-NotApplicable.png</td>
+<td></td><td>http://en.opensuse.org/images/thumb/5/57/Icon-question.png/22px-Icon-question.png</td>
 </tr>
 
 <tr>
@@ -146,15 +146,15 @@
 <td>
 [http://code.google.com/p/perfectdesktop/wiki/OpenSUSE_11_2_ms7_kde4_live_i586_tc_HW_HDrive_FAT_MountByUser http://www.gstatic.com/codesite/ph/images/tearoff_icon.gif]
 </td>
-<td>1</td><td>http://files.opensuse.org/opensuse/en/thumb/4/4e/Cross.png/22px-Cross.png</td>
+<td>1</td><td>http://en.opensuse.org/images/thumb/b/bc/Icon-cross.png/22px-Icon-cross.png</td>
 </tr><tr>
 <td colspan="2"/><td>Чтение и запись включены по умолчанию для простого пользователя</td>
 <td></td>
-<td></td><td>http://files.opensuse.org/opensuse/en/thumb/0/0c/NotApplicable.png/24px-NotApplicable.png</td>
+<td></td><td>http://en.opensuse.org/images/thumb/5/57/Icon-question.png/22px-Icon-question.png</td>
 </tr><tr>
 <td colspan="2"/><td>Правильная кодировка русских файлов</td>
 <td></td>
-<td></td><td>http://files.opensuse.org/opensuse/en/thumb/0/0c/NotApplicable.png/24px-NotApplicable.png</td>
+<td></td><td>http://en.opensuse.org/images/thumb/5/57/Icon-question.png/22px-Icon-question.png</td>
 </tr>
 
 <tr>
@@ -164,15 +164,15 @@
 <td>
 [http://code.google.com/p/perfectdesktop/wiki/OpenSUSE_11_2_ms7_kde4_live_i586_tc_HW_HDrive_NTFS_MountByUser http://www.gstatic.com/codesite/ph/images/tearoff_icon.gif]
 </td>
-<td>1</td><td>http://files.opensuse.org/opensuse/en/thumb/4/4e/Cross.png/22px-Cross.png</td>
+<td>1</td><td>http://en.opensuse.org/images/thumb/b/bc/Icon-cross.png/22px-Icon-cross.png</td>
 </tr><tr>
 <td colspan="2"/><td>Чтение и запись включены по умолчанию для простого пользователя</td>
 <td></td>
-<td></td><td>http://files.opensuse.org/opensuse/en/thumb/0/0c/NotApplicable.png/24px-NotApplicable.png</td>
+<td></td><td>http://en.opensuse.org/images/thumb/5/57/Icon-question.png/22px-Icon-question.png</td>
 </tr><tr>
 <td colspan="2"/><td>Правильная кодировка русских файлов</td>
 <td></td>
-<td></td><td>http://files.opensuse.org/opensuse/en/thumb/0/0c/NotApplicable.png/24px-NotApplicable.png</td>
+<td></td><td>http://en.opensuse.org/images/thumb/5/57/Icon-question.png/22px-Icon-question.png</td>
 </tr>
 
 <wiki:comment>
@@ -190,7 +190,7 @@
 <td>
 [http://code.google.com/p/perfectdesktop/wiki/OpenSUSE_11_2_ms7_kde4_live_i586_tc_HW_Microphone_SimpleTest http://www.gstatic.com/codesite/ph/images/tearoff_icon.gif]
 </td>
-<td></td><td>http://files.opensuse.org/opensuse/en/thumb/0/0c/NotApplicable.png/24px-NotApplicable.png</td>
+<td></td><td>http://en.opensuse.org/images/thumb/5/57/Icon-question.png/22px-Icon-question.png</td>
 </tr>
 
 <wiki:comment>
@@ -204,15 +204,15 @@
 </tr><tr>
 <td colspan="2"/><td>kopete</td>
 <td></td>
-<td>2</td><td>http://files.opensuse.org/opensuse/en/3/30/22px-Tick.png</td>
+<td>2</td><td>http://en.opensuse.org/images/thumb/4/4f/Icon-checked.png/22px-Icon-checked.png</td>
 </tr><tr>
 <td colspan="2"/><td>skype</td>
 <td></td>
-<td></td><td>http://files.opensuse.org/opensuse/en/thumb/0/0c/NotApplicable.png/24px-NotApplicable.png</td>
+<td></td><td>http://en.opensuse.org/images/thumb/5/57/Icon-question.png/22px-Icon-question.png</td>
 </tr><tr>
 <td colspan="2"/><td>luvcview</td>
 <td></td>
-<td></td><td>http://files.opensuse.org/opensuse/en/thumb/0/0c/NotApplicable.png/24px-NotApplicable.png</td>
+<td></td><td>http://en.opensuse.org/images/thumb/5/57/Icon-question.png/22px-Icon-question.png</td>
 </tr>
 
 <wiki:comment>
@@ -228,11 +228,11 @@
 <td>
 [http://code.google.com/p/perfectdesktop/wiki/OpenSUSE_11_2_ms7_kde4_live_i586_tc_HW_MMKeys_CommonActions http://www.gstatic.com/codesite/ph/images/tearoff_icon.gif]
 </td>
-<td>1</td><td>http://files.opensuse.org/opensuse/en/thumb/4/4e/Cross.png/22px-Cross.png</td>
+<td>1</td><td>http://en.opensuse.org/images/thumb/b/bc/Icon-cross.png/22px-Icon-cross.png</td>
 </tr><tr>
 <td colspan="2"/><td>Возможность назначить произвольные действия — должны приниматься в качестве корректных кодов например в диалоге конфигурации горячих клавиш в amarok</td>
 <td></td>
-<td>2</td><td>http://files.opensuse.org/opensuse/en/3/30/22px-Tick.png</td>
+<td>2</td><td>http://en.opensuse.org/images/thumb/4/4f/Icon-checked.png/22px-Icon-checked.png</td>
 </tr>
 
 <wiki:comment>
@@ -250,7 +250,7 @@
 <td>
 [http://code.google.com/p/perfectdesktop/wiki/OpenSUSE_11_2_ms7_kde4_live_i586_tc_HW_KeyboardGlobalKeys_PrtScr http://www.gstatic.com/codesite/ph/images/tearoff_icon.gif]
 </td>
-<td>1</td><td>http://files.opensuse.org/opensuse/en/thumb/4/4e/Cross.png/22px-Cross.png</td>
+<td>1</td><td>http://en.opensuse.org/images/thumb/b/bc/Icon-cross.png/22px-Icon-cross.png</td>
 </tr>
 
 <wiki:comment>
@@ -264,15 +264,15 @@
 </tr><tr>
 <td colspan="2"/><td>Запись файлов на диск и последующее чтение их на этом же компьютере с записанного диска</td>
 <td></td>
-<td></td><td>http://files.opensuse.org/opensuse/en/thumb/0/0c/NotApplicable.png/24px-NotApplicable.png</td>
+<td></td><td>http://en.opensuse.org/images/thumb/5/57/Icon-question.png/22px-Icon-question.png</td>
 </tr><tr>
 <td colspan="2"/><td>Запись/чтение файлов с русскими именами</td>
 <td></td>
-<td></td><td>http://files.opensuse.org/opensuse/en/thumb/0/0c/NotApplicable.png/24px-NotApplicable.png</td>
+<td></td><td>http://en.opensuse.org/images/thumb/5/57/Icon-question.png/22px-Icon-question.png</td>
 </tr><tr>
 <td colspan="2"/><td>Запись с галочкой «проверить записанные данные»</td>
 <td></td>
-<td></td><td>http://files.opensuse.org/opensuse/en/thumb/0/0c/NotApplicable.png/24px-NotApplicable.png</td>
+<td></td><td>http://en.opensuse.org/images/thumb/5/57/Icon-question.png/22px-Icon-question.png</td>
 </tr>
 </table>
 
@@ -308,15 +308,15 @@
 <td>
 [http://code.google.com/p/perfectdesktop/wiki/OpenSUSE_11_2_ms7_kde4_live_i586_tc_MM_Ogg_OpenPlayer http://www.gstatic.com/codesite/ph/images/tearoff_icon.gif]
 </td>
-<td>2</td><td>http://files.opensuse.org/opensuse/en/3/30/22px-Tick.png</td>
+<td>2</td><td>http://en.opensuse.org/images/thumb/4/4f/Icon-checked.png/22px-Icon-checked.png</td>
 </tr><tr>
 <td colspan="2"/><td>Метаинформация (теги) в открывшейся программе отобразились корректно</td>
 <td></td>
-<td>2</td><td>http://files.opensuse.org/opensuse/en/3/30/22px-Tick.png</td>
+<td>2</td><td>http://en.opensuse.org/images/thumb/4/4f/Icon-checked.png/22px-Icon-checked.png</td>
 </tr><tr>
 <td colspan="2"/><td>Русские теги отобразились корректно</td>
 <td></td>
-<td></td><td>http://files.opensuse.org/opensuse/en/thumb/0/0c/NotApplicable.png/24px-NotApplicable.png</td>
+<td></td><td>http://en.opensuse.org/images/thumb/5/57/Icon-question.png/22px-Icon-question.png</td>
 </tr>
 
 <tr>
@@ -326,23 +326,23 @@
 <td>
 [http://code.google.com/p/perfectdesktop/wiki/OpenSUSE_11_2_ms7_kde4_live_i586_tc_MM_MP3_OpenPlayer http://www.gstatic.com/codesite/ph/images/tearoff_icon.gif]
 </td>
-<td>1</td><td>http://files.opensuse.org/opensuse/en/thumb/4/4e/Cross.png/22px-Cross.png</td>
+<td>1</td><td>http://en.opensuse.org/images/thumb/b/bc/Icon-cross.png/22px-Icon-cross.png</td>
 </tr><tr>
 <td colspan="2"/><td>Если кодеки в системе по умолчанию не установлены, проверить наличие адекватного решения проблемы (или предложение установки выскочит прямо из плеера или наличие в интернете инструкции для их установки в текущем дистрибутиве)</td>
 <td></td>
-<td></td><td>http://files.opensuse.org/opensuse/en/thumb/0/0c/NotApplicable.png/24px-NotApplicable.png</td>
+<td></td><td>http://en.opensuse.org/images/thumb/5/57/Icon-question.png/22px-Icon-question.png</td>
 </tr><tr>
 <td colspan="2"/><td>При наличии кодеков в системе воспроизведение начинается без проблем</td>
 <td></td>
-<td></td><td>http://files.opensuse.org/opensuse/en/thumb/0/0c/NotApplicable.png/24px-NotApplicable.png</td>
+<td></td><td>http://en.opensuse.org/images/thumb/5/57/Icon-question.png/22px-Icon-question.png</td>
 </tr><tr>
 <td colspan="2"/><td>Метаинформация (теги) в открывшейся программе отобразились корректно</td>
 <td></td>
-<td></td><td>http://files.opensuse.org/opensuse/en/thumb/0/0c/NotApplicable.png/24px-NotApplicable.png</td>
+<td></td><td>http://en.opensuse.org/images/thumb/5/57/Icon-question.png/22px-Icon-question.png</td>
 </tr><tr>
 <td colspan="2"/><td>Русские теги отобразились корректно (для mp3 - проверить отдельно IDV-1 и IDV-2 в разных файлах - если теги прописаны не в UTF, должен быть способ или перекодировать файл прямо из программы или прочитать информацию корректно без его модификации)</td>
 <td></td>
-<td></td><td>http://files.opensuse.org/opensuse/en/thumb/0/0c/NotApplicable.png/24px-NotApplicable.png</td>
+<td></td><td>http://en.opensuse.org/images/thumb/5/57/Icon-question.png/22px-Icon-question.png</td>
 </tr>
 
 <wiki:comment>
@@ -360,7 +360,7 @@
 <td>
 [http://code.google.com/p/perfectdesktop/wiki/OpenSUSE_11_2_ms7_kde4_live_i586_tc_MM_Ogv_OpenPlayer http://www.gstatic.com/codesite/ph/images/tearoff_icon.gif]
 </td>
-<td>2</td><td>http://files.opensuse.org/opensuse/en/3/30/22px-Tick.png</td>
+<td>2</td><td>http://en.opensuse.org/images/thumb/4/4f/Icon-checked.png/22px-Icon-checked.png</td>
 </tr>
 
 <tr>
@@ -368,15 +368,15 @@
 </tr><tr>
 <td colspan="2"/><td>Клик в файловом менеджере открывает видео плеер</td>
 <td></td>
-<td></td><td>http://files.opensuse.org/opensuse/en/thumb/0/0c/NotApplicable.png/24px-NotApplicable.png</td>
+<td></td><td>http://en.opensuse.org/images/thumb/5/57/Icon-question.png/22px-Icon-question.png</td>
 </tr><tr>
 <td colspan="2"/><td>Если кодеки в системе по умолчанию не установлены, проверить наличие адекватного решения проблемы (или предложение установки выскочит прямо из плеера или наличие в интернете инструкции для их установки в текущем дистрибутиве)</td>
 <td></td>
-<td></td><td>http://files.opensuse.org/opensuse/en/thumb/0/0c/NotApplicable.png/24px-NotApplicable.png</td>
+<td></td><td>http://en.opensuse.org/images/thumb/5/57/Icon-question.png/22px-Icon-question.png</td>
 </tr><tr>
 <td colspan="2"/><td>При наличии кодеков воспроизведение начинается без проблем</td>
 <td></td>
-<td></td><td>http://files.opensuse.org/opensuse/en/thumb/0/0c/NotApplicable.png/24px-NotApplicable.png</td>
+<td></td><td>http://en.opensuse.org/images/thumb/5/57/Icon-question.png/22px-Icon-question.png</td>
 </tr>
 
 <tr>
@@ -388,14 +388,14 @@
 </tr><tr>
 <td colspan="2"/><td>В полноэкранном режиме при бездействии через 3-5 секунд пропадает курсор мыши</td>
 <td></td>
-<td>-1</td><td>http://files.opensuse.org/opensuse/en/thumb/4/4e/Cross.png/22px-Cross.png</td>
+<td>-1</td><td>http://en.opensuse.org/images/thumb/b/bc/Icon-cross.png/22px-Icon-cross.png</td>
 </tr><tr>
 <td colspan="2"/><td>В полноэкранном режиме при помещении курсора мыши к нижней или верхней границе экрана всплывает панель для управления воспроизведением (ползунок с текущей позицией и регулятор громкости)</td>
 <td></td>
-<td>2</td><td>http://files.opensuse.org/opensuse/en/3/30/22px-Tick.png</td>
+<td>2</td><td>http://en.opensuse.org/images/thumb/4/4f/Icon-checked.png/22px-Icon-checked.png</td>
 </tr><tr>
 <td colspan="2"/><td>При проигрывании файла (в полноэкранном режиме или в окне) автоматически блокируется отключение экрана/саспенд и пр.</td>
 <td></td>
-<td>2</td><td>http://files.opensuse.org/opensuse/en/3/30/22px-Tick.png</td>
+<td>2</td><td>http://en.opensuse.org/images/thumb/4/4f/Icon-checked.png/22px-Icon-checked.png</td>
 </tr>
 </table>
