@@ -39,11 +39,11 @@
 </tr><tr>
 <td colspan="2" width="50px"/><td>поддержка 3-D ускорения</td>
 <td></td>
-<td>2</td><td>http://files.opensuse.org/opensuse/en/3/30/22px-Tick.png</td>
+<td>2</td><td>http://ru.opensuse.org/images/3/30/22px-Tick.png</td>
 </tr><tr>
 <td colspan="2"/><td>работа 3-D эффектов в текущем оконном менеджере (compiz/kwin)</td>
 <td></td>
-<td>2</td><td>http://files.opensuse.org/opensuse/en/3/30/22px-Tick.png</td>
+<td>2</td><td>http://en.opensuse.org/images/thumb/4/4f/Icon-checked.png/22px-Icon-checked.png</td>
 </tr>
 
 <tr>
@@ -51,7 +51,7 @@
 </tr><tr>
 <td colspan="2"/><td>glxgears</td>
 <td></td>
-<td>2</td><td>http://files.opensuse.org/opensuse/en/3/30/22px-Tick.png</td>
+<td>2</td><td>http://en.opensuse.org/images/thumb/4/4f/Icon-checked.png/22px-Icon-checked.png</td>
 </tr><tr>
 <td colspan="2"/><td>blender</td>
 <td></td>
@@ -103,13 +103,13 @@
 <td>
 [http://code.google.com/p/perfectdesktop/wiki/tc_HW_Video_FullscreenAltTab http://www.gstatic.com/codesite/ph/images/tearoff_icon.gif]
 </td>
-<td>-1</td><td>http://files.opensuse.org/opensuse/en/thumb/4/4e/Cross.png/22px-Cross.png</td>
+<td>-1</td><td>http://en.opensuse.org/images/thumb/b/bc/Icon-cross.png/22px-Icon-cross.png</td>
 </tr><tr>
 <td colspan="2"/><td>Аналогично - во ВСЕХ полноэкранных приложениях (играх) должны работать все глобальные горячие клавиши - например регулятор громкости на мультимедиа-клавиатуре</td>
 <td>
 [http://code.google.com/p/perfectdesktop/wiki/tc_HW_Video_FullscreenHotKeys http://www.gstatic.com/codesite/ph/images/tearoff_icon.gif]
 </td>
-<td>-1</td><td>http://files.opensuse.org/opensuse/en/thumb/4/4e/Cross.png/22px-Cross.png</td>
+<td>-1</td><td>http://en.opensuse.org/images/thumb/b/bc/Icon-cross.png/22px-Icon-cross.png</td>
 </tr><tr>
 <td colspan="2"/><td>При возвращении в игру все должно продолжиться без проблем</td>
 <td></td>
@@ -170,15 +170,15 @@
 </tr><tr>
 <td colspan="2"/><td>в терминале по ctrl+alt+f1 при нажатии tab не должен пищать</td>
 <td></td>
-<td>2</td><td>http://files.opensuse.org/opensuse/en/3/30/22px-Tick.png</td>
+<td>2</td><td>http://en.opensuse.org/images/thumb/4/4f/Icon-checked.png/22px-Icon-checked.png</td>
 </tr><tr>
 <td colspan="2"/><td>в xterm при нажатии tab не должен пищать</td>
 <td></td>
-<td>2</td><td>http://files.opensuse.org/opensuse/en/3/30/22px-Tick.png</td>
+<td>2</td><td>http://en.opensuse.org/images/thumb/4/4f/Icon-checked.png/22px-Icon-checked.png</td>
 </tr><tr>
 <td colspan="2"/><td>по ctrl+alt+backspace не должен пищать (при включенной защите от случайного перезапуска X-сервера найти другой способ оповестить пользователя о том, что эта операция опасна)</td>
 <td></td>
-<td>2</td><td>http://files.opensuse.org/opensuse/en/3/30/22px-Tick.png</td>
+<td>2</td><td>http://en.opensuse.org/images/thumb/4/4f/Icon-checked.png/22px-Icon-checked.png</td>
 </tr>
 </table>
 
@@ -217,21 +217,21 @@
 </tr><tr>
 <td colspan="2"/><td>пробел: пауза/играть</td>
 <td></td>
-<td>2</td><td>http://files.opensuse.org/opensuse/en/3/30/22px-Tick.png</td>
+<td>2</td><td>http://en.opensuse.org/images/thumb/4/4f/Icon-checked.png/22px-Icon-checked.png</td>
 </tr><tr>
 <td colspan="2"/><td>стрелки вправо/влево: перемотка на небольшой отрезок</td>
 <td>
 [http://code.google.com/p/perfectdesktop/wiki/tc_MM_Video_HKeys_LeftRight http://www.gstatic.com/codesite/ph/images/tearoff_icon.gif]
 </td>
-<td>1</td><td>http://files.opensuse.org/opensuse/en/thumb/4/4e/Cross.png/22px-Cross.png</td>
+<td>1</td><td>http://en.opensuse.org/images/thumb/b/bc/Icon-cross.png/22px-Icon-cross.png</td>
 </tr><tr>
 <td colspan="2"/><td>pg up/pg down: перемотка на большой отрезок</td>
 <td></td>
-<td>2</td><td>http://files.opensuse.org/opensuse/en/3/30/22px-Tick.png</td>
+<td>2</td><td>http://en.opensuse.org/images/thumb/4/4f/Icon-checked.png/22px-Icon-checked.png</td>
 </tr><tr>
 <td colspan="2"/><td>alt+enter/двойной клик: переключение полноэкранного и оконного режимов</td>
 <td></td>
-<td>2</td><td>http://files.opensuse.org/opensuse/en/3/30/22px-Tick.png</td>
+<td>2</td><td>http://en.opensuse.org/images/thumb/4/4f/Icon-checked.png/22px-Icon-checked.png</td>
 </tr>
 
 <tr>
