@@ -302,7 +302,7 @@
 <tr>
 <td colspan="3"><h2>Skype</h2></td><td></td><td></td><td></td>
 </tr><tr>
-<td colspan="2"/><td>Качетственный звук в обоих направлениях</td>
+<td colspan="2"/><td>Качественный звук в обоих направлениях</td>
 <td></td>
 <td></td><td>http://en.opensuse.org/images/thumb/5/57/Icon-question.png/22px-Icon-question.png</td>
 </tr><tr>
