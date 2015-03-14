@@ -1,0 +1,1 @@
+[отчет об ошибке](https://bugzilla.novell.com/show_bug.cgi?id=541428)

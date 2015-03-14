@@ -1,0 +1,1 @@
+Скачать образцы ogg-файлов можно на странице http://vorbis.com/music, [Hydrate-Kenny\_Beltrey.ogg](http://www.vorbis.com/music/Hydrate-Kenny_Beltrey.ogg)

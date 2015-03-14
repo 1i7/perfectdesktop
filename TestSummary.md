@@ -1,0 +1,16 @@
+баллы:
+  * **2** - тест пройден в полном объеме
+  * **1** - скорее пройден, чем не пройден: _тест или пройден с некоторыми незначительными недочетами, или для работы потребовалось совершить незначительные дополнительные настройки, или установить дополнительное программное обеспечение_
+  * **-1** - скорее не пройден, чем пройден: _тест проходит не в полном объеме, существующие проблемы или не устранимы, или их устранение требует специальных навыков и серьезной модификации системы (пересборка ядра)_
+  * **-2** - тест не пройден вообще
+
+
+статус:
+  * ![http://en.opensuse.org/images/thumb/4/4f/Icon-checked.png/22px-Icon-checked.png](http://en.opensuse.org/images/thumb/4/4f/Icon-checked.png/22px-Icon-checked.png) **pass** - тест пройден (баллы 2)
+  * ![http://en.opensuse.org/images/thumb/b/bc/Icon-cross.png/22px-Icon-cross.png](http://en.opensuse.org/images/thumb/b/bc/Icon-cross.png/22px-Icon-cross.png) **fail** - тест не пройден (баллы от -2 до 1)
+  * ![http://en.opensuse.org/images/thumb/5/57/Icon-question.png/22px-Icon-question.png](http://en.opensuse.org/images/thumb/5/57/Icon-question.png/22px-Icon-question.png) **N/A** - тест не выполнялся
+
+Наборы тестов:
+  * [Уровень 0: необходимый минимум](http://code.google.com/p/perfectdesktop/wiki/Level0)
+  * [Уровень 1: базовые возможности](http://code.google.com/p/perfectdesktop/wiki/Level1)
+  * [Уровень 2: расширенные тесты](http://code.google.com/p/perfectdesktop/wiki/Level2)
